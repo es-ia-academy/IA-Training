@@ -25,16 +25,10 @@
 }
 </style>
       <div id="dZTWytl" data-type="html"><div id="hero-section">
-  <img id="hero-image" src="https://source.unsplash.com/random/900×700/?fruit" alt="Imagen descriptiva de la sección hero">
+  <img id="hero-image" src="https://source.unsplash.com/random/900×700/?fruit" alt="Ejemplo de imagen de escritorio">
+  <div id="overlay"></div>
   <h1 id="hero-title">Bienvenido a Mi Sitio Web</h1>
-</div>
-
-<div id="hero-section">
-    <img id="hero-image" src="https://source.unsplash.com/random/900×700/?fruit" alt="Ejemplo de imagen de escritorio">
-    <div id="overlay"></div>
-    <h1 id="hero-title">Bienvenido a Mi Sitio Web</h1>
-</div>
-</div>
+</div></div>
       <script id="yiOrKrk" data-type="js"></script>
       <button class="toolbar-open" onclick="toolsOpenModal(this)">
         <img src="../global/file/edit-section.svg">
