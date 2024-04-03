@@ -1,47 +1,68 @@
-<section id="rYWQCpg" data-type="section"><style id="eZvnZmc" type="text/css" data-type="css">#hero-section {
-  position: relative;
-  width: 100vw;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  overflow: hidden;
-}
+<section id="rYWQCpg" data-type="section">
+  <!-- Estilos CSS -->
+  <style id="eZvnZmc" type="text/css" data-type="css">
+  /* Estilos para el contenedor principal */
+  #hero-section {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow: hidden;
+  }
 
-#hero-image {
-  position: absolute;
-  width: 100vw;
-  height: 100vh;
-  object-fit: cover;
-  top: 0;
-  left: 0;
-  z-index: -2;
-}
+  /* Estilos para la imagen de fondo */
+  #hero-image {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    z-index: -2;
+  }
 
-#overlay {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3));
-  z-index: -1;
-}
+  /* Estilos para el superpuesto */
+  #overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3));
+    z-index: -1;
+  }
 
-#hero-title-h2 {
-  color: white;
-  font-size: 3rem;
-  line-height: 1;
-}
+  /* Estilos para los elementos de texto */
+  #hero-title-h2 {
+    color: white;
+    font-size: 3rem;
+    line-height: 1;
+  }
 
-#hero-title-p {
-  color: white;
-  font-size: 1rem;
-}
-</style><div id="FIpJzcX" data-type="html"><div id="hero-section">
-  <img id="hero-image" src="https://source.unsplash.com/random/?landscape" alt="Ejemplo de imagen de escritorio">
-  <div id="overlay" style="display: block;"></div>
-  <div id="hero-title">
-    <h1 id="hero-title-h2">Bienvenido a Mi Sitio Web</h1>
-    <p id="hero-title-p">El mejor sitio web del mundo</p>
+  #hero-title-p {
+    color: white;
+    font-size: 1rem;
+  }
+  </style>
+  <!-- Contenido HTML -->
+  <div id="FIpJzcX" data-type="html">
+    <div id="hero-section">
+      <!-- Imagen de fondo -->
+      <img id="hero-image" src="https://source.unsplash.com/random/?landscape" alt="Ejemplo de imagen de escritorio">
+      <!-- Superpuesto -->
+      <div id="overlay" style="display: block;"></div>
+      <!-- Título y subtítulo -->
+      <div id="hero-title">
+        <h1 id="hero-title-h2">Bienvenido a Mi Sitio Web</h1>
+        <p id="hero-title-p">El mejor sitio web del mundo</p>
+      </div>
+    </div>
   </div>
-</div></div><script id="MDxPgFr" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;"><img src="../global/file/edit-section.svg"></button></section>
+  <!-- Script JavaScript -->
+  <script id="MDxPgFr" data-type="js"></script>
+  <!-- Botón de herramientas -->
+  <button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;">
+    <img src="../global/file/edit-section.svg">
+  </button>
+</section>
