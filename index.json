@@ -34,7 +34,7 @@
   font-family:system-ui;
 }
 </style><div id="dZTWytl" data-type="html"><div id="hero-section">
-  <img id="hero-image" src="https://source.unsplash.com/random/600x300/?dark-food" alt="Ejemplo de imagen de escritorio">
+  <img id="hero-image" src="https://source.unsplash.com/random/300x300/?dark-food" alt="Ejemplo de imagen de escritorio">
   <div id="hero-overlay" style="display: block;"></div>
   <h1 id="hero-title">Bienvenido a Mi Sitio Web</h1>
 </div></div><script id="yiOrKrk" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
