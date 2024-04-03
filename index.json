@@ -33,43 +33,29 @@
   font-size: 4rem;
   font-family: system-ui;
 }
-</style><div id="dZTWytl" data-type="html"><div id="hero-section">
-  <img id="hero-image" src="https://source.unsplash.com/random/1024x720/?dark-food" alt="Ejemplo de imagen de escritorio">
-  <div id="hero-overlay" style="display: block;"></div>
-  <h1 id="hero-title">Bienvenido a Mi Sitio Web</h1>
-</div></div><script id="yiOrKrk" data-type="js">document.addEventListener('DOMContentLoaded', (event) => {
-    const heroImage = document.getElementById('hero-image');
+</style><div id="dZTWytl" data-type="html"><div id="hero-section"><img id="hero-image" src="https://source.unsplash.com/random/1024x720/?dark-food" alt="Ejemplo de imagen de escritorio"><div id="hero-overlay" style="display: block;"></div><h1 id="hero-title">Bienvenido a Mi Sitio Web</h1></div></div><script id="yiOrKrk" data-type="js">document.addEventListener('DOMContentLoaded', (event) => {
+    const heroOverlay = document.getElementById('hero-overlay');
+
+    // Establecer estilo inicial para el overlay
+    heroOverlay.style.opacity = 1;
+    heroOverlay.style.position = 'absolute';
+    heroOverlay.style.width = '100%';
+    heroOverlay.style.height = '100%';
+    heroOverlay.style.backgroundColor = 'rgba(0,0,0,0.5)';
+    heroOverlay.style.transition = 'opacity 2s'; // Duración del efecto fade
 
     // Función para aplicar fade out
     function fadeOut() {
-        let op = 1;  // opacidad inicial
-        const timer = setInterval(function () {
-            if (op <= 0.1) {
-                clearInterval(timer);
-                heroImage.style.display = 'none';
-                fadeIn(); // Llamar a fadeIn después de que fadeOut se complete
-            }
-            heroImage.style.opacity = op;
-            heroImage.style.filter = 'alpha(opacity=' + op * 100 + ")";
-            op -= op * 0.1;
-        }, 50);
+        heroOverlay.style.opacity = 0; // Hace el overlay completamente transparente
+        setTimeout(fadeIn, 2000); // Espera 2 segundos antes de iniciar fadeIn
     }
 
     // Función para aplicar fade in
     function fadeIn() {
-        let op = 0.1;  // opacidad inicial
-        heroImage.style.display = 'block';
-        const timer = setInterval(function () {
-            if (op >= 1) {
-                clearInterval(timer);
-            }
-            heroImage.style.opacity = op;
-            heroImage.style.filter = 'alpha(opacity=' + op * 100 + ")";
-            op += op * 0.1;
-        }, 50);
+        heroOverlay.style.opacity = 1; // Vuelve a hacer el overlay visible
     }
 
-    // Ejecutar fade out al inicio para demostrar
+    // Ejecutar fade out inicialmente para demostrar
     fadeOut();
 });
 </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
