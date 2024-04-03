@@ -53,7 +53,7 @@
   <div id="overlay" style="display: block;"></div>
   <!-- Título y subtítulo -->
   <div id="hero-title">
-    <h1 id="hero-title-h2">Bienvenido a Mi Sitio Web</h1>
+    <h1 id="hero-title-h2" contenteditable="true">Bienvenido a Mi Sitio Web</h1>
     <p id="hero-title-p">El mejor sitio web del mundo</p>
   </div>
 </div></div>
