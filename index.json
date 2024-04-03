@@ -34,9 +34,7 @@
   font-family: system-ui;
 }
 </style><div id="dZTWytl" data-type="html"><div id="hero-section">
-  <img id="hero-image" data-type="image-grid" src="https://source.unsplash.com/random/1024x720/?dark-food">
-  <div id="hero-overlay" style="display: block;"></div>
-  <h1 id="hero-title">Bienvenido a Mi Sitio Web</h1>
+  <img id="hero-image" data-type="img-grid" src="https://source.unsplash.com/random/1024x720/?dark-food">
 </div></div><script id="yiOrKrk" data-type="js">document.addEventListener('DOMContentLoaded', (event) => {
     const heroOverlay = document.getElementById('hero-overlay');
 
@@ -62,10 +60,7 @@
     // Ejecutar fade out inicialmente para demostrar
     fadeOut();
 });
-</script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
-    
-    <section id="oMPbtaC" data-type="section">
-      <style id="eRtkQgQ" type="text/css" data-type="css">
+</script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="oMPbtaC" data-type="section"><style id="eRtkQgQ" type="text/css" data-type="css">
         
     @media screen and (min-width:0px){#oMPbtaC{width:100%;height:100vh;position:relative}}
 
@@ -81,24 +76,4 @@
     @media screen and (max-width:640px){#RjpurzL{min-height:50vh; display:grid;place-content:center;padding:10%;background:white;}}
     
     
-      </style>
-      
-        <div id="SJIMkIb" data-type="grid" class="grid-section">
-
-        <img id="bnLQlfS" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/learn_1920x1080.jpeg" data-type="img-grid" loading="lazy">
-      
-        <div id="RjpurzL" class="grid-item grid-text">
-          <h2 id="ENrySMw" contenteditable="true">Ut enim ad minim veniam quis nostrud</h2>
-          <p id="arnuvNP" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
-          <div id="WXsjvum">
-            <a id="ZqswPiC" contenteditable="true" href="https://www">LOREM IPSUM</a>
-            <a id="KjFYUjZ" contenteditable="true" href="https://www">LOREM IPSUM</a>
-          </div>
-        </div>
-
-        </div>
-
-      <button class="toolbar-open" onclick="toolsOpenModal(this)">
-        <img src="../global/file/edit-section.svg" data-type="img-edit">
-      </button>
-  </section>
+      </style><div id="SJIMkIb" data-type="grid" class="grid-section"><img id="bnLQlfS" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/learn_1920x1080.jpeg" data-type="img-grid" loading="lazy"><div id="RjpurzL" class="grid-item grid-text"><h2 id="ENrySMw" contenteditable="true">Ut enim ad minim veniam quis nostrud</h2><p id="arnuvNP" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p><div id="WXsjvum"><a id="ZqswPiC" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="KjFYUjZ" contenteditable="true" href="https://www">LOREM IPSUM</a></div></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section>
