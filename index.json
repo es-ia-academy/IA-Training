@@ -33,7 +33,11 @@
   font-size: 4rem;
   font-family: system-ui;
 }
-</style><div id="dZTWytl" data-type="html"><img id="bnLQlf2" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/learn_1920x1080.jpeg" data-type="img-grid" loading="lazy"></div><script id="yiOrKrk" data-type="js">document.addEventListener('DOMContentLoaded', (event) => {
+</style><div id="dZTWytl" data-type="html"><div id="hero-section">
+    <img id="hero-image" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/learn_1920x1080.jpeg" data-type="img-grid" loading="lazy">
+    <div id="overlay"></div>
+    <h1 id="hero-title">Bienvenido a Mi Sitio Web</h1>
+</div></div><script id="yiOrKrk" data-type="js">document.addEventListener('DOMContentLoaded', (event) => {
     const heroOverlay = document.getElementById('hero-overlay');
 
     // Establecer estilo inicial para el overlay
