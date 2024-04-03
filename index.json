@@ -37,4 +37,39 @@
   <img id="hero-image" src="https://source.unsplash.com/random/1024x720/?dark-food" alt="Ejemplo de imagen de escritorio">
   <div id="hero-overlay" style="display: block;"></div>
   <h1 id="hero-title">Bienvenido a Mi Sitio Web</h1>
-</div></div><script id="yiOrKrk" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+</div></div><script id="yiOrKrk" data-type="js">document.addEventListener('DOMContentLoaded', (event) => {
+    const heroImage = document.getElementById('hero-image');
+
+    // Función para aplicar fade out
+    function fadeOut() {
+        let op = 1;  // opacidad inicial
+        const timer = setInterval(function () {
+            if (op <= 0.1) {
+                clearInterval(timer);
+                heroImage.style.display = 'none';
+                fadeIn(); // Llamar a fadeIn después de que fadeOut se complete
+            }
+            heroImage.style.opacity = op;
+            heroImage.style.filter = 'alpha(opacity=' + op * 100 + ")";
+            op -= op * 0.1;
+        }, 50);
+    }
+
+    // Función para aplicar fade in
+    function fadeIn() {
+        let op = 0.1;  // opacidad inicial
+        heroImage.style.display = 'block';
+        const timer = setInterval(function () {
+            if (op >= 1) {
+                clearInterval(timer);
+            }
+            heroImage.style.opacity = op;
+            heroImage.style.filter = 'alpha(opacity=' + op * 100 + ")";
+            op += op * 0.1;
+        }, 50);
+    }
+
+    // Ejecutar fade out al inicio para demostrar
+    fadeOut();
+});
+</script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
