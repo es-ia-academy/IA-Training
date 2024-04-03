@@ -30,7 +30,8 @@
 #hero-title {
   z-index: 1;
   color: white;
-  font-size: 2em;
+  font-size: 4rem;
+  font-family:system-ui;
 }
 </style><div id="dZTWytl" data-type="html"><div id="hero-section">
   <img id="hero-image" src="https://source.unsplash.com/random/900×700/?bikini" alt="Ejemplo de imagen de escritorio">
