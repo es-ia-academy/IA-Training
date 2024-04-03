@@ -30,9 +30,10 @@
 #hero-title-h2 {
   color: white;
   font-size: 3rem;
+  line-height: 1;
 }
 
-#hero-title-h2 {
+#hero-title-p {
   color: white;
   font-size: 1rem;
 }
