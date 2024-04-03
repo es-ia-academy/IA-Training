@@ -1,7 +1,6 @@
-<section id="VpjeNxK" data-type="section">
-      <style id="BxZxiMG" type="text/css" data-type="css">#hero-section {
+<section id="VpjeNxK" data-type="section"><style id="BxZxiMG" type="text/css" data-type="css">#hero-section {
   position: relative;
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -33,14 +32,4 @@
   color: white;
   font-size: 2em;
 }
-</style>
-      <div id="dZTWytl" data-type="html"><div id="hero-section">
-  <img id="hero-image" src="https://source.unsplash.com/random/900×700/?fruit" alt="Ejemplo de imagen de escritorio">
-  <div id="overlay" style="display: block;"></div>
-  <h1 id="hero-title">Bienvenido a Mi Sitio Web</h1>
-</div></div>
-      <script id="yiOrKrk" data-type="js"></script>
-      <button class="toolbar-open" onclick="toolsOpenModal(this)">
-        <img src="../global/file/edit-section.svg">
-      </button>
-  </section>
+</style><div id="dZTWytl" data-type="html"><div id="hero-section"><img id="hero-image" src="https://source.unsplash.com/random/900×700/?fruit" alt="Ejemplo de imagen de escritorio"><div id="overlay" style="display: block;"></div><h1 id="hero-title">Bienvenido a Mi Sitio Web</h1></div></div><script id="yiOrKrk" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
