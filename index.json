@@ -3,30 +3,40 @@
   position: relative;
   width: 100%;
   height: 100vh;
-  /* Esto hará que tu sección hero ocupe el 100% de la altura de la ventana */
   display: flex;
   justify-content: center;
-  /* Centra el contenido horizontalmente */
   align-items: center;
-  /* Centra el contenido verticalmente */
   text-align: center;
-  /* Asegura que el texto esté centrado */
-  color: white;
-  /* Ajusta el color del texto para que sea blanco */
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1593642532400-2682810df593?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80') no-repeat center center/cover;
-  /* Combina un degradado oscuro con la imagen de fondo */
+  overflow: hidden;
+}
+
+#hero-image {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  top: 0;
+  left: 0;
+  z-index: -2;
+}
+
+#overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  z-index: -1;
 }
 
 #hero-title {
   z-index: 1;
-  /* Asegura que el texto esté por encima del degradado y la imagen */
+  color: white;
   font-size: 2em;
-  /* Ajusta el tamaño del texto según necesites */
 }
 </style>
       <div id="dZTWytl" data-type="html"><div id="hero-section">
   <img id="hero-image" src="https://source.unsplash.com/random/900×700/?fruit" alt="Ejemplo de imagen de escritorio">
-  <div id="overlay"></div>
+  <div id="overlay" style="display: block;"></div>
   <h1 id="hero-title">Bienvenido a Mi Sitio Web</h1>
 </div></div>
       <script id="yiOrKrk" data-type="js"></script>
