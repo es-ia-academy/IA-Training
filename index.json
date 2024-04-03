@@ -37,6 +37,6 @@
   <div id="overlay" style="display: block;"></div>
   <div id="hero-title">
     <h1 id="hero-title-h2">Bienvenido a Mi Sitio Web</h1>
-    <h1 id="hero-title-p">Bienvenido a Mi Sitio Web<p></p>
-  </h1></div>
+    <p id="hero-title-p">Bienvenido a Mi Sitio Web</p>
+  </div>
 </div></div><script id="MDxPgFr" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
