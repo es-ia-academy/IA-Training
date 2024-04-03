@@ -36,7 +36,6 @@
 </style><div id="dZTWytl" data-type="html"><div id="hero-section">
   <img id="hero-image" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/learn_1920x1080.jpeg" data-type="img-grid" loading="lazy">
   
-  <h1 id="hero-title">Bienvenido a Mi Sitio Web</h1>
 </div></div><script id="yiOrKrk" data-type="js">document.addEventListener('DOMContentLoaded', (event) => {
     const heroOverlay = document.getElementById('hero-overlay');
 
