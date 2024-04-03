@@ -37,11 +37,4 @@
   color: white;
   font-size: 1rem;
 }
-</style><div id="FIpJzcX" data-type="html"><div id="hero-section">
-  <img id="hero-image" src="https://source.unsplash.com/random/?city,night" alt="Ejemplo de imagen de escritorio">
-  <div id="overlay" style="display: block;"></div>
-  <div id="hero-title">
-    <h1 id="hero-title-h2">Bienvenido a Mi Sitio Web</h1>
-    <p id="hero-title-p">El mejor sitio web del mundo</p>
-  </div>
-</div></div><script id="MDxPgFr" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: hidden;"><img src="../global/file/edit-section.svg"></button></section>
+</style><div id="FIpJzcX" data-type="html"><div id="hero-section"><img id="hero-image" src="https://source.unsplash.com/random/?city,night" alt="Ejemplo de imagen de escritorio"><div id="overlay" style="display: none;"></div><div id="hero-title"><h1 id="hero-title-h2">Bienvenido a Mi Sitio Web</h1><p id="hero-title-p">El mejor sitio web del mundo</p></div></div></div><script id="MDxPgFr" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;"><img src="../global/file/edit-section.svg"></button></section>
