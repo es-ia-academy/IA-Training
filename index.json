@@ -1,7 +1,7 @@
 <section id="rYWQCpg" data-type="section">
       <style id="eZvnZmc" type="text/css" data-type="css">#hero-section {
   position: relative;
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   display: flex;
   justify-content: center;
