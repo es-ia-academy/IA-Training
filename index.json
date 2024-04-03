@@ -35,10 +35,13 @@
 }
 </style>
       <div id="ySMsatj" data-type="html"><div id="hero-section">
-  
-  <div id="overlay" style="display: block;">
-      <img id="hero-image" src="https://source.unsplash.com/random/?city,night" alt="Ejemplo de imagen de escritorio">
-  </div>
+  <div id="xJjqRva" data-type="bg-image">
+          <picture id="BCWcjiz">
+            <source srcset="" media="(max-width:640px)">
+            <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+            <img id="LwfjVnV" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/empty.svg" data-type="img-bg" loading="lazy">
+          </picture>
+        </div>
   <h1 id="hero-title">Cambia este titulo</h1>
   <h1 id="hero-desc">Cambia esta descripcion</h1>
 </div></div>
