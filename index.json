@@ -1,5 +1,4 @@
-<section id="rYWQCpg" data-type="section">
-      <style id="eZvnZmc" type="text/css" data-type="css">#hero-section {
+<section id="rYWQCpg" data-type="section"><style id="eZvnZmc" type="text/css" data-type="css">#hero-section {
   position: relative;
   width: 100vw;
   height: 100vh;
@@ -33,14 +32,10 @@
   color: white;
   font-size: 2em;
 }
-</style>
-      <div id="FIpJzcX" data-type="html"><div id="hero-section">
+</style><div id="FIpJzcX" data-type="html"><div id="hero-section">
   <img id="hero-image" src="https://source.unsplash.com/random/?city,night" alt="Ejemplo de imagen de escritorio">
-  <div id="overlay"></div>
-  <h1 id="hero-title">Bienvenido a Mi Sitio Web</h1>
-</div></div>
-      <script id="MDxPgFr" data-type="js"></script>
-      <button class="toolbar-open" onclick="toolsOpenModal(this)">
-        <img src="../global/file/edit-section.svg">
-      </button>
-  </section>
+  <div id="overlay" style="display: block;"></div>
+  <div id="hero-title">
+    <h1 id="hero-title-h2">Bienvenido a Mi Sitio Web</h1>
+  </div>
+</div></div><script id="MDxPgFr" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
