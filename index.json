@@ -1,5 +1,9 @@
 <section id="qKatPeY" data-type="section">
-      <style id="ppErTDo" type="text/css" data-type="css"></style>
+      <style id="ppErTDo" type="text/css" data-type="css">#hello {
+  background: red;
+  padding: 30px;
+}
+</style>
       <div id="kganKYe" data-type="html"><h1 id="hello">Hello world</h1></div>
       <script id="aEThTfV" data-type="js"></script>
       <button class="toolbar-open" onclick="toolsOpenModal(this)">
