@@ -46,19 +46,17 @@
   }
   </style>
   <!-- Contenido HTML -->
-  <div id="FIpJzcX" data-type="html">
-    <div id="hero-section">
-      <!-- Imagen de fondo -->
-      <img id="hero-image" src="https://source.unsplash.com/random/?landscape" alt="Ejemplo de imagen de escritorio">
-      <!-- Superpuesto -->
-      <div id="overlay" style="display: block;"></div>
-      <!-- Título y subtítulo -->
-      <div id="hero-title">
-        <h1 id="hero-title-h2">Bienvenido a Mi Sitio Web</h1>
-        <p id="hero-title-p">El mejor sitio web del mundo</p>
-      </div>
-    </div>
+  <div id="FIpJzcX" data-type="html"><div id="hero-section">
+  <!-- Imagen de fondo -->
+  <img id="hero-image" src="https://source.unsplash.com/random/?landscape">
+  <!-- Superpuesto -->
+  <div id="overlay" style="display: block;"></div>
+  <!-- Título y subtítulo -->
+  <div id="hero-title">
+    <h1 id="hero-title-h2">Bienvenido a Mi Sitio Web</h1>
+    <p id="hero-title-p">El mejor sitio web del mundo</p>
   </div>
+</div></div>
   <!-- Script JavaScript -->
   <script id="MDxPgFr" data-type="js"></script>
   <!-- Botón de herramientas -->
