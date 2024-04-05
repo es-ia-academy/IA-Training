@@ -4,6 +4,11 @@
   padding: 30px;
   width: 100vW;
 }
+#section-hero-description {
+  background: red;
+  padding: 30px;
+  width: 100vW;
+}
 </style>
   <div id="kganKYe" data-type="html">
     <h1 id="section-hero-title">This is a title for my hero section</h1>
