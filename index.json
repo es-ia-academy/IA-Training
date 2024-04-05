@@ -10,6 +10,7 @@
 #section-hero-content {
   background: blue;
   color: white;
+  padding:35px;
 }
 
 #section-hero-title {
