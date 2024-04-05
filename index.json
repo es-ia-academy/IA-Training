@@ -1,8 +1,9 @@
 <section id="qKatPeY" data-type="section"><style id="ppErTDo" type="text/css" data-type="css">#section-hero-content {
   background: blue;
   color: white;
-  width:100vw;
-  height:100vh;
+  width: 100vw;
+  height: 100vh;
+  place-content:center;
 }
 
 #section-hero-title {
