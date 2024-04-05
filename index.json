@@ -11,8 +11,8 @@
 
 #section-hero-content {
   background: white;
-  color: white;
   padding: 35px;
+  border-radius: 10px;
 }
 
 #section-hero-title {
