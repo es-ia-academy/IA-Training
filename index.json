@@ -6,13 +6,12 @@
     place-items: center;
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(90deg, yellow, orange);
-    /* Updated background to a gradient of yellow and orange */
+    background: red;
+    /* Updated background to solid red color */
   }
 
   #section-hero-content {
     background: green;
-    /* Updated background color to green */
     color: white;
     padding: 35px;
   }
