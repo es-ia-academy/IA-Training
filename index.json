@@ -11,7 +11,8 @@
   }
 
   #section-hero-content {
-    background: blue;
+    background: black;
+    /* Updated background color to black */
     color: white;
     padding: 35px;
   }
