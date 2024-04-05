@@ -1,29 +1,28 @@
 <section id="qKatPeY" data-type="section">
-  <style id="ppErTDo" type="text/css" data-type="css">
-  #qKatPeY {
-    display: grid;
-    place-content: center;
-    place-items: center;
-    width: 100vw;
-    height: 100vh;
-    background: yellow;
-    /* Updated background to solid yellow */
-  }
+  <style id="ppErTDo" type="text/css" data-type="css">#qKatPeY {
+  display: grid;
+  place-content: center;
+  place-items: center;
+  width: 100vw;
+  height: 100vh;
+  background: yellow;
+  /* Updated background to solid yellow */
+}
 
-  #section-hero-content {
-    background: green;
-    color: white;
-    padding: 35px;
-  }
+#section-hero-content {
+  background: white;
+  color: white;
+  padding: 35px;
+}
 
-  #section-hero-title {
-    font-size: 2rem;
-  }
+#section-hero-title {
+  font-size: 2rem;
+}
 
-  #section-hero-description {
-    font-size: 1rem;
-  }
-  </style>
+#section-hero-description {
+  font-size: 1rem;
+}
+</style>
   <div id="kganKYe" data-type="html">
     <div id="section-hero-content" contenteditable="true">
       <h1 id="section-hero-title">Este es un título para mi sección heroica</h1>
