@@ -6,8 +6,8 @@
     place-items: center;
     width: 100vw;
     height: 100vh;
-    background: yellow;
-    /* Updated background color to yellow */
+    background: linear-gradient(90deg, yellow, orange);
+    /* Updated background to a gradient of yellow and orange */
   }
 
   #section-hero-content {
