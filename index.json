@@ -1,38 +1,36 @@
 <section id="qKatPeY" data-type="section">
-  <style id="ppErTDo" type="text/css" data-type="css">
-  #qKatPeY {
-    display: grid;
-    place-content: center;
-    place-items: center;
-    width: 100vw;
-    height: 100vh;
-    background: red;
-    /* Updated background color to red */
-  }
+<style id="ppErTDo" type="text/css" data-type="css">
+#qKatPeY {
+display: grid;
+place-content: center;
+place-items: center;
+width:100vw;
+height:100vh;
+background: yellow; /* Updated background color to yellow */
+}
 
-  #section-hero-content {
-    background: black;
-    /* Updated background color to black */
-    color: white;
-    padding: 35px;
-  }
+#section-hero-content {
+background: green; /* Updated background color to green */
+color: white;
+padding:35px;
+}
 
-  #section-hero-title {
-    font-size: 2rem;
-  }
+#section-hero-title {
+font-size:2rem;
+}
 
-  #section-hero-description {
-    font-size: 1rem;
-  }
-  </style>
-  <div id="kganKYe" data-type="html">
-    <div id="section-hero-content">
-      <h1 id="section-hero-title">Este es un título para mi sección heroica</h1>
-      <h1 id="section-hero-description">Esta es una descripción para mi sección heroica</h1>
-    </div>
-  </div>
-  <script id="aEThTfV" data-type="js"></script>
-  <button class="toolbar-open" onclick="toolsOpenModal(this)">
-    <img src="../global/file/edit-section.svg">
-  </button>
+#section-hero-description {
+font-size:1rem;
+}
+</style>
+<div id="kganKYe" data-type="html">
+<div id="section-hero-content" contenteditable="true">
+<h1 id="section-hero-title">Este es un título para mi sección heroica</h1>
+<h1 id="section-hero-description">Esta es una descripción para mi sección heroica</h1>
+</div>
+</div>
+<script id="aEThTfV" data-type="js"></script>
+<button class="toolbar-open" onclick="toolsOpenModal(this)">
+<img src="../global/file/edit-section.svg">
+</button>
 </section>
