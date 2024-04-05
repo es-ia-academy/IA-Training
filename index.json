@@ -1,8 +1,9 @@
-<section id="qKatPeY" data-type="section"><style id="ppErTDo" type="text/css" data-type="css">#qKatPeY{
-    display:grid;
-    place-content:center;
-    place-items:center;
+<section id="qKatPeY" data-type="section"><style id="ppErTDo" type="text/css" data-type="css">#qKatPeY {
+  display: grid;
+  place-content: center;
+  place-items: center;
 }
+
 #section-hero-content {
   background: blue;
   color: white;
