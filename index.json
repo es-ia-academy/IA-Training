@@ -10,10 +10,10 @@
   width: 100vW;
 }
 </style>
-  <div id="kganKYe" data-type="html">
-    <h1 id="section-hero-title">This is a title for my hero section</h1>
-    <h1 id="section-hero-description">This is a description for my hero section</h1>
-  </div>
+  <div id="kganKYe" data-type="html"><div id="section-hero-content">
+  <h1 id="section-hero-title">This is a title for my hero section</h1>
+  <h1 id="section-hero-description">This is a description for my hero section</h1>
+</div></div>
   <script id="aEThTfV" data-type="js"></script>
   <button class="toolbar-open" onclick="toolsOpenModal(this)">
     <img src="../global/file/edit-section.svg">
