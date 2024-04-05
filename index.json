@@ -6,8 +6,8 @@
     place-items: center;
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(135deg, #ff0000, #00ff00, #0000ff);
-    /* Updated background to linear gradient with three colors */
+    background: radial-gradient(circle, #ff0000, #00ff00, #0000ff);
+    /* Updated background to radial gradient with three colors */
   }
 
   #section-hero-content {
