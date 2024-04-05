@@ -4,7 +4,7 @@
   place-items: center;
   width: 100vw;
   height: 100vh;
-  background:red;
+  background: black;
 }
 
 #section-hero-content {
