@@ -1,11 +1,10 @@
 <section id="qKatPeY" data-type="section">
-  <style id="ppErTDo" type="text/css" data-type="css">
-  #hello {
-    background: red;
-    padding: 30px;
-    width: 100vW;
-  }
-  </style>
+  <style id="ppErTDo" type="text/css" data-type="css">#section-hero-title {
+  background: red;
+  padding: 30px;
+  width: 100vW;
+}
+</style>
   <div id="kganKYe" data-type="html">
     <h1 id="section-hero-title">This is a title for my hero section</h1>
     <h1 id="section-hero-description">This is a description for my hero section</h1>
