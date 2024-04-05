@@ -6,7 +6,8 @@
     place-items: center;
     width: 100%;
     height: 100%;
-    background: black;
+    background: red;
+    /* Updated background color to red */
   }
 
   #section-hero-content {
