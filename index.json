@@ -1,13 +1,13 @@
 <section id="qKatPeY" data-type="section">
-  <style id="ppErTDo" type="text/css" data-type="css">#section-hero-title {
-  background: red;
-  padding: 30px;
-  width: 100vW;
+  <style id="ppErTDo" type="text/css" data-type="css">#section-hero-content{
+    background:blue;
 }
+#section-hero-title {
+    font-size:4rem;
+}
+
 #section-hero-description {
-  background: red;
-  padding: 30px;
-  width: 100vW;
+ font-size:1rem;
 }
 </style>
   <div id="kganKYe" data-type="html"><div id="section-hero-content">
