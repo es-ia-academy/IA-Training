@@ -1,1 +1,61 @@
-<section id="GRSjFgU" data-type="section"><style>  /* Add or update CSS here... */  body {    margin: 0;  }  #GRSjFgU {    background: linear-gradient(to bottom right, orange, yellow);    position: fixed;    top: 0;    left: 0;    width: 100%;    height: 100%;    z-index: -1;  }</style><div id="NhtJtgJ" data-type="html"><!-- Add or update HTML here... --></div><script id="bvzhBob" data-type="js">// Add or update JS here...  </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+<section id="GRSjFgU" data-type="section">
+  <style>
+  /* Add or update CSS here... */
+
+  #GRSjFgU {
+    background: linear-gradient(to bottom right, orange, yellow);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+
+  /* Add new CSS styles here */
+  #container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+
+  #content {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  #buttons {
+    margin-top: 10px;
+  }
+
+  #buttons button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    background: lightblue;
+    cursor: pointer;
+  }
+  </style>
+  <div id="NhtJtgJ" data-type="html"> <!-- Add or update HTML here... -->
+    <div id="container">
+      <div id="content">
+        <h2>Title</h2>
+        <p>Description</p>
+        <div id="buttons">
+          <button>Button 1</button>
+          <button>Button 2</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script id="bvzhBob" data-type="js">
+  // Add or update JS here...  
+  </script>
+  <button class="toolbar-open" onclick="toolsOpenModal(this)">
+    <img src="../global/file/edit-section.svg">
+  </button>
+</section>
