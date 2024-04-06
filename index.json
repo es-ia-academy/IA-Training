@@ -4,6 +4,6 @@
           height: 100vh;
           width: 100vw;
           text-align: center;
-          background:black;
+          background:red;
         }
 </style>    <div id="PpRMcrS" data-type="html" contenteditable="true">        <div id="centered-container">            <h1>Welcome to our Website</h1>            <p>Discover amazing content and services here.</p>            <button id="centered-button">Explore Now</button>        </div>    </div>    <script id="PBMLrjC" data-type="js"></script>    <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
