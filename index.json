@@ -5,7 +5,7 @@
     background-color: red;
     width: 100vw;
     height: 100vh;
-    display: inline-block;
+    display: grid;
   }
   </style>
   <div id="UFNDIMc" data-type="html"> <!--Add or update HTML here...-->
