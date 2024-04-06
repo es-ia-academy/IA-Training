@@ -1,15 +1,1 @@
-<section id="GRSjFgU" data-type="section">
-  <style>
-  /* Add or update CSS here... */
-  #GRSjFgU {
-    background: linear-gradient(to bottom right, orange, yellow);
-  }
-  </style>
-  <div id="NhtJtgJ" data-type="html"> <!-- Add or update HTML here... --> </div>
-  <script id="bvzhBob" data-type="js">
-  // Add or update JS here...  
-  </script>
-  <button class="toolbar-open" onclick="toolsOpenModal(this)">
-    <img src="../global/file/edit-section.svg">
-  </button>
-</section>
+<section id="GRSjFgU" data-type="section"><style>  /* Add or update CSS here... */  body {    margin: 0;  }  #GRSjFgU {    background: linear-gradient(to bottom right, orange, yellow);    position: fixed;    top: 0;    left: 0;    width: 100%;    height: 100%;    z-index: -1;  }</style><div id="NhtJtgJ" data-type="html"><!-- Add or update HTML here... --></div><script id="bvzhBob" data-type="js">// Add or update JS here...  </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
