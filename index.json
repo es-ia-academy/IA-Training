@@ -2,17 +2,4 @@
   /* Add or update CSS here... */
   </style><div id="ZIlsUgd" data-type="html"><!--Add or update HTML here...--></div><script id="VSfvSiq" data-type="js">
   // Add or update JS here...      
-  </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
-  <section id="snYbetS" data-type="section">
-      <style id="OIVEdzb" type="text/css" data-type="css">
-      /* Add or update CSS here... */
-      
-      </style>
-      <div id="jlqmkDl" data-type="html">
-      <!--Add or update HTML here...-->
-      </div>
-      <script id="HGLECyc" data-type="js">
-      // Add or update JS here...
-      </script>
-      <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
-  </section>
+  </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section><style>  /* Add or update CSS here... */  body {    background-color: red;    margin: 0;    height: 100vh;  }</style></section>
