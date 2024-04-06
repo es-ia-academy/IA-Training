@@ -1,13 +1,1 @@
-<section id="aDiARrx" data-type="section">
-      <style id="oQfaqNy" type="text/css" data-type="css">
-      /* Add or update CSS here... */
-      
-      </style>
-      <div id="sayHfxE" data-type="html">
-      <!--Add or update HTML here...-->
-      </div>
-      <script id="YLxcGUO" data-type="js">
-      // Add or update JS here...
-      </script>
-      <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
-  </section>
+<section id="aDiARrx" data-type="section">  <style id="oQfaqNy" type="text/css" data-type="css">      /* Add or update CSS here... */      #newDiv {        background: linear-gradient(135deg, yellow, orange);        padding: 20px;        margin: 10px;      }  </style>  <div id="sayHfxE" data-type="html">      <!--Add or update HTML here...-->      <div id="newDiv">          <!-- Content goes here -->      </div>  </div>  <script id="YLxcGUO" data-type="js">      // Add or update JS here...  </script>  <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
