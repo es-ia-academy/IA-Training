@@ -16,4 +16,10 @@
       height: 300px;
       padding: 20px;
     }
-</style>  <div id="QmhsEWs" data-type="html">    <!--Add or update HTML here...-->    <div id="uFzOXxS"></div>    <div id="AGtDXhe">      <h2>Title</h2>      <p>Description</p>    </div>  </div>  <script id="hnrGpQe" data-type="js">    // Add or update JS here...  </script>  <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+</style>  <div id="QmhsEWs" data-type="html">    <!--Add or update HTML here...-->
+    <div id="uFzOXxS">
+      <div id="AGtDXhe">
+        <h2>Title</h2>
+        <p>Description</p>
+      </div>
+    </div></div>  <script id="hnrGpQe" data-type="js">    // Add or update JS here...  </script>  <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
