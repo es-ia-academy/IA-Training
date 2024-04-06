@@ -1,1 +1,26 @@
-<section id="VBphVXk" data-type="section"><style id="KwgkUlo" type="text/css" data-type="css">  /* Add or update CSS here... */  html, body {    height: 100%;    margin: 0;    background: linear-gradient(135deg, orange, yellow);  }  .centered-content {    text-align: center;    margin: 0 auto;    position: relative;    z-index: 1;  }</style><div id="ZIlsUgd" data-type="html"><!--Add or update HTML here...--><div class="centered-content"><h2>Title</h2><h3>Subtitle</h3><button>Button 1</button><button>Button 2</button></div></div><script id="VSfvSiq" data-type="js">// Add or update JS here...      </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+<section id="VBphVXk" data-type="section">
+  <style id="KwgkUlo" type="text/css" data-type="css">
+  /* Add or update CSS here... */
+  html,
+  body {
+    height: 100%;
+    margin: 0;
+    background: linear-gradient(135deg, orange, yellow);
+  }
+
+  .centered-content {
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+  }
+  </style>
+  <div id="ZIlsUgd" data-type="html"><!--Add or update HTML here...-->
+  </div>
+  <script id="VSfvSiq" data-type="js">
+  // Add or update JS here...      
+  </script>
+  <button class="toolbar-open" onclick="toolsOpenModal(this)">
+    <img src="../global/file/edit-section.svg">
+  </button>
+</section>
