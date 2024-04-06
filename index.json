@@ -1,0 +1,13 @@
+<section id="mHmNoGr" data-type="section">
+      <style id="gatVbBE" type="text/css" data-type="css">
+      /* Add or update CSS here... */
+      
+      </style>
+      <div id="MzuPTAB" data-type="html">
+      <!--Add or update HTML here...-->
+      </div>
+      <script id="lKDpLlH" data-type="js">
+      // Add or update JS here...
+      </script>
+      <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
+  </section>
