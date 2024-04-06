@@ -1,13 +1,20 @@
 <section id="GRSjFgU" data-type="section">
-      <style id="UiKYYvu" type="text/css" data-type="css">
-      /* Add or update CSS here... */
-      
-      </style>
-      <div id="NhtJtgJ" data-type="html">
-      <!--Add or update HTML here...-->
-      </div>
-      <script id="bvzhBob" data-type="js">
-      // Add or update JS here...
-      </script>
-      <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
-  </section>
+  <style id="UiKYYvu" type="text/css" data-type="css">
+  /* Add or update CSS here... */
+  #GRSjFgU {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+  }
+  </style>
+  <div id="NhtJtgJ" data-type="html"> <!-- Add or update HTML here... --> </div>
+  <script id="bvzhBob" data-type="js">
+  // Add or update JS here...    
+  </script>
+  <button class="toolbar-open" onclick="toolsOpenModal(this)">
+    <img src="../global/file/edit-section.svg">
+  </button>
+</section>
