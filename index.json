@@ -1,0 +1,20 @@
+<section id="trbWtiH" data-type="section">
+  <style id="KcBVfok" type="text/css" data-type="css">
+  /* Add or update CSS here... */
+  #JeBcXfz {
+    background-color: red;
+    width: 100vw;
+    height: 100vh;
+    display: inline-block;
+  }
+  </style>
+  <div id="UFNDIMc" data-type="html"> <!--Add or update HTML here...-->
+    <div id="JeBcXfz"></div>
+  </div>
+  <script id="rzVGBdg" data-type="js">
+  // Add or update JS here...      
+  </script>
+  <button class="toolbar-open" onclick="toolsOpenModal(this)">
+    <img src="../global/file/edit-section.svg">
+  </button>
+</section>
