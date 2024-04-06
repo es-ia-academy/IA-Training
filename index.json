@@ -1,6 +1,13 @@
-<section id="ZhRqRiM" data-type="section">
-      <style id="soaOLNZ" type="text/css" data-type="css" data-edit="true"></style>
-      <div id="bVmNkJg" data-type="html" data-edit="true"><!--Add or update Css here...--></div>
-      <script id="oHKLlIa" data-type="js" data-edit="true"><!--Add or update Javascript here...--></script>
+<section id="QUixcvh" data-type="section">
+      <style id="sbYJKnN" type="text/css" data-type="css" data-edit="true">
+      /* Add or update CSS here... */
+      
+      </style>
+      <div id="iJFYCCM" data-type="html" data-edit="true">
+      <!--Add or update HTML here...-->
+      </div>
+      <script id="MohBKhC" data-type="js" data-edit="true">
+      // Add or update JS here...
+      </script>
       <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
   </section>
