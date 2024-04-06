@@ -1,9 +1,6 @@
-<section id="pPQTuEl" data-type="section">    <style id="FGGoCiZ" type="text/css" data-type="css">        #centered-container {
-          display: grid;
-          place-content: center;
-          height: 300px;
-          width: 100px;
-          text-align: center;
-          background: red;
-        }
-</style>    <div id="PpRMcrS" data-type="html" contenteditable="true">        <div id="centered-container">            <h1>Welcome to our Website</h1>            <p>Discover amazing content and services here.</p>            <button id="centered-button">Explore Now</button>        </div>    </div>    <script id="PBMLrjC" data-type="js"></script>    <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+<section id="ZhRqRiM" data-type="section">
+      <style id="soaOLNZ" type="text/css" data-type="css" data-edit="true"></style>
+      <div id="bVmNkJg" data-type="html" data-edit="true"><!--Add or update Css here...--></div>
+      <script id="oHKLlIa" data-type="js" data-edit="true"><!--Add or update Javascript here...--></script>
+      <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
+  </section>
