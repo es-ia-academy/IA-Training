@@ -1,5 +1,4 @@
-<section id="GRSjFgU" data-type="section">
-  <style>
+<section id="GRSjFgU" data-type="section"><style>
   /* Add or update CSS here... */
 
   #GRSjFgU {
@@ -39,23 +38,6 @@
     background: lightblue;
     cursor: pointer;
   }
-  </style>
-  <div id="NhtJtgJ" data-type="html"> <!-- Add or update HTML here... -->
-    <div id="container">
-      <div id="content">
-        <h2>Title</h2>
-        <p>Description</p>
-        <div id="buttons">
-          <button>Button 1</button>
-          <button>Button 2</button>
-        </div>
-      </div>
-    </div>
-  </div>
-  <script id="bvzhBob" data-type="js">
+  </style><div id="NhtJtgJ" data-type="html"></div><script id="bvzhBob" data-type="js">
   // Add or update JS here...  
-  </script>
-  <button class="toolbar-open" onclick="toolsOpenModal(this)">
-    <img src="../global/file/edit-section.svg">
-  </button>
-</section>
+  </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
