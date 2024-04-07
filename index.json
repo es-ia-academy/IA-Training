@@ -15,7 +15,7 @@
 }
 
 #a1B2c3D a:hover {
-  background-color: #ddd;
+  background-color:white;
   color: black;
 }
 
