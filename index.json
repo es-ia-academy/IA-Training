@@ -1,6 +1,7 @@
 <section id="GDAUgFC" data-type="section"><style id="tJKrhJj" type="text/css" data-type="css">#GDAUgF {
   position: sticky;
   top: 0;
+  z-index:99;
 }
 
 #a1B2c3D {
