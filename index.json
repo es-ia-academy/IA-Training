@@ -3,7 +3,6 @@
   background-color: black;
   display: flex;
   gap: 1px;
-  color: black;
 }
 
 #a1B2c3D a {
