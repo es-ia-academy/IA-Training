@@ -24,3 +24,52 @@
 </style><div id="GMtTGNq" data-type="html"><div id="a1B2c3D"><a id="e4F5g6H" href="#home">Home</a><a id="i7J8k9L" href="#news">News</a><a id="m0N1o2P" href="#contact">Contact</a><a id="q3R4s5T" href="#about">About</a></div></div><script id="QgRpyXx" data-type="js">
       // Add or update JS here...
       </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+    
+    <section id="UliludE" data-type="section" class="grid-item">
+    <style id="IaDcNYG" type="text/css" data-type="css">#UliludE {
+  width: 100%;
+  height: fit-content;
+  position: relative
+}
+</style>
+    
+    <div id="ylhzugB" data-type="container">
+      <div id="yzgURPW" data-type="backgrounds">
+        
+        <div id="JYRhxBM" data-type="bg-color" class="div-visible">
+          <div id="SihuPoU" data-type="solid-color" class="div-visible" style="background: rgb(0, 60, 255);"></div>
+          <div id="EijnXKt" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
+          <div id="YuAXDEK" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
+        </div> <!-- bg-color -->
+  
+        <div id="ZnGVwHM" data-type="bg-image" class="div-hidden">
+          <picture id="sNQzJkW">
+            <source srcset="" media="(max-width:640px)">
+            <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+            <img id="akvDwkV" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/empty.svg" data-type="img-bg" loading="lazy">
+          </picture>
+        </div> <!-- bg-image -->
+  
+        <div id="nscrvMv" data-type="bg-video" class="div-hidden">
+          <video id="ynuJOJN" autoplay="" loop="" muted="" loading="lazy">
+          <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
+          </video>
+        </div> <!-- bg-video -->
+  
+      </div> <!-- backgrounds -->
+  
+      <div id="flThqxB" data-type="content">
+        <div id="LXzqDCK">
+          <h2 id="uXSEhdK" contenteditable="true">Lorem ipsum dolor sit amet</h2>
+          <p id="gILhyYQ" contenteditable="true">Lorem ipsum dolor sit amet</p>
+          <div id="mgAEVon">
+            <a id="RWoOOog" contenteditable="true" href="https://www">LOREM IPSUM</a>
+            <a id="qtEzvVe" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          </div> <!-- div2ID -->
+        </div> <!-- div1ID -->
+      </div> <!-- content -->
+    </div> <!-- container -->
+    <button class="toolbar-open" onclick="toolsOpenModal(this)">
+      <img src="../global/file/edit-section.svg">
+    </button>
+  </section>
