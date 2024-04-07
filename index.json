@@ -1,10 +1,13 @@
-<section id="GDAUgFC" data-type="section"><style id="tJKrhJj" type="text/css" data-type="css">#a1B2c3D {
+<section id="GDAUgFC" data-type="section"><style id="tJKrhJj" type="text/css" data-type="css">#GDAUgFC {
+  position: sticky;
+  top: 0;
+}
+
+#a1B2c3D {
   overflow: hidden;
   background-color: black;
   display: flex;
   gap: 1px;
-  position:sticky;
-  top:0;
 }
 
 #a1B2c3D a {
