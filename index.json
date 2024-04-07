@@ -29,6 +29,8 @@
   background-color: red;
   color: white;
 }
-</style><div id="GMtTGNq" data-type="html"><div id="a1B2c3D"><a id="e4F5g6H" href="#home">Home</a><a id="i7J8k9L" href="#news">News</a><a id="m0N1o2P" href="#contact">Contact</a><a id="q3R4s5T" href="#about">About</a></div></div><script id="QgRpyXx" data-type="js">
-      // Add or update JS here...
-      </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+</style><div id="GMtTGNq" data-type="html"><div id="a1B2c3D"><a id="e4F5g6H" href="#home">Home</a><a id="i7J8k9L" href="#news">News</a><a id="m0N1o2P" href="#contact">Contact</a><a id="q3R4s5T" href="#about">About</a></div></div><script id="QgRpyXx" data-type="js">function sayHello()
+{
+  alert('hello');
+}
+</script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
