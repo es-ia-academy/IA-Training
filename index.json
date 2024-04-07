@@ -39,7 +39,7 @@
     #CKUXcEq {
       width: 100%;
       height: auto;
-      position: relative
+      position: relative;
     }
   }
 
