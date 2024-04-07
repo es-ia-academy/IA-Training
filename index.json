@@ -31,40 +31,4 @@
 }
 </style><div id="GMtTGNq" data-type="html"><div id="a1B2c3D"><a id="e4F5g6H" href="#home">Home</a><a id="i7J8k9L" href="#news">News</a><a id="m0N1o2P" href="#contact">Contact</a><a id="q3R4s5T" href="#about">About</a></div></div><script id="QgRpyXx" data-type="js">
       // Add or update JS here...
-      </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="jAabTkA" data-type="section" class="grid-item"><style id="bvtlKEg" type="text/css" data-type="css">
-      
-    @media screen and (min-width:0px){#jAabTkA{width:100%;height:100vh;position:relative}}
-    @media screen and (min-width:0px){#NCdZRLM{width:100%;height:100%;position:relative}}
-    @media screen and (min-width:0px){#vTQofVa{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
-    @media screen and (min-width:0px){#scvVZcK{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#JGSUlJV{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#dmaEIhT{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#nsGyehc{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#jMBFOki{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
-    @media screen and (min-width:0px){#ZgwWqav{width:100%;height:100%;display:grid;place-content: center; background: #00000052;}}
-    @media screen and (min-width:0px){#qGuFbpp{display: grid; padding: 5%; max-width:1050px;gap:15px;place-items:center;text-align: center;}}
-    @media screen and (min-width:0px){#DWsdSQy{font-size: clamp(3rem, 12vw, 7rem);line-height:1;font-weight:200;color: white;}}
-    @media screen and (min-width:0px){#tWMqcLl{font-size:1rem;color:white;}}
-    @media screen and (min-width:0px){#VfMjcAL{display:flex;gap:10px;}}
-    @media screen and (min-width:0px){#yQseIRH{border: 3px solid white; padding: 0 15px; color: white; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
-    @media screen and (min-width:0px){#lhQhUES{background: white; padding: 0 15px; color:black; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
-    
-    </style><div id="NCdZRLM" data-type="container"><div id="scvVZcK" data-type="bg-color" class="div-hidden"><div id="JGSUlJV" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div><div id="dmaEIhT" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div><div id="nsGyehc" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div></div><!-- bg-color --><div id="CdjLOHW" data-type="bg-image" class="div-visible"><picture id="OfcCEHz"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="vTQofVa" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/empty.svg" data-type="img-bg" loading="lazy"></picture></div><!-- bg-image --><div id="pBrcVJO" data-type="bg-video" class="div-hidden"><video id="jMBFOki" autoplay="" loop="" muted="" loading="lazy"><source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4"></video></div><!-- bg-video --><div id="ZgwWqav" data-type="content"><div id="qGuFbpp"><h2 id="DWsdSQy" contenteditable="true">Lorem ipsum dolor sit amet</h2><p id="tWMqcLl" contenteditable="true">Lorem ipsum dolor sit amet consectetur</p><div id="VfMjcAL"><a id="yQseIRH" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="lhQhUES" contenteditable="true" href="https://www">LOREM IPSUM</a></div><!-- div2ID --></div><!-- div1ID --></div><!-- content --></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="kLfiMVY" data-type="section" class="grid-item"><style id="jMTOjnq" type="text/css" data-type="css">
-      
-    @media screen and (min-width:0px){#kLfiMVY{width:100%;height:100vh;position:relative}}
-    @media screen and (min-width:0px){#gyYmlwh{width:100%;height:100%;position:relative}}
-    @media screen and (min-width:0px){#wlhmYAq{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
-    @media screen and (min-width:0px){#UDcpmXG{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#MuBDAgc{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#OHBwLUb{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#MiXQXnz{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#SRKykfs{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
-    @media screen and (min-width:0px){#IQojTbJ{width:100%;height:100%;display:grid;place-content: center; background: #00000052;}}
-    @media screen and (min-width:0px){#zaOekgE{display: grid; padding: 5%; max-width:1050px;gap:15px;place-items:center;text-align: center;}}
-    @media screen and (min-width:0px){#rSeGbCh{font-size: clamp(3rem, 12vw, 7rem);line-height:1;font-weight:200;color: white;}}
-    @media screen and (min-width:0px){#oLCohDC{font-size:1rem;color:white;}}
-    @media screen and (min-width:0px){#GAjZqZb{display:flex;gap:10px;}}
-    @media screen and (min-width:0px){#RsnyTcp{border: 3px solid white; padding: 0 15px; color: white; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
-    @media screen and (min-width:0px){#dtgyrsO{background: white; padding: 0 15px; color:black; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
-    
-    </style><div id="gyYmlwh" data-type="container"><div id="UDcpmXG" data-type="bg-color" class="div-hidden"><div id="MuBDAgc" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div><div id="OHBwLUb" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div><div id="MiXQXnz" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div></div><!-- bg-color --><div id="VCGNkwO" data-type="bg-image" class="div-visible"><picture id="MMTaPQh"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="wlhmYAq" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/empty.svg" data-type="img-bg" loading="lazy"></picture></div><!-- bg-image --><div id="spvylua" data-type="bg-video" class="div-hidden"><video id="SRKykfs" autoplay="" loop="" muted="" loading="lazy"><source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4"></video></div><!-- bg-video --><div id="IQojTbJ" data-type="content"><div id="zaOekgE"><h2 id="rSeGbCh" contenteditable="true">Lorem ipsum dolor sit amet</h2><p id="oLCohDC" contenteditable="true">Lorem ipsum dolor sit amet consectetur</p><div id="GAjZqZb"><a id="RsnyTcp" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="dtgyrsO" contenteditable="true" href="https://www">LOREM IPSUM</a></div><!-- div2ID --></div><!-- div1ID --></div><!-- content --></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+      </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
