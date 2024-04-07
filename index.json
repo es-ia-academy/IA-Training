@@ -12,7 +12,7 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  background-color:white;
+  background-color: white;
 }
 
 #a1B2c3D a:hover {
@@ -21,7 +21,7 @@
 }
 
 #e4F5g6H {
-  background-color: #04AA6D;
+  background-color: red;
   color: white;
 }
 </style><div id="GMtTGNq" data-type="html"><div id="a1B2c3D"><a id="e4F5g6H" href="#home">Home</a><a id="i7J8k9L" href="#news">News</a><a id="m0N1o2P" href="#contact">Contact</a><a id="q3R4s5T" href="#about">About</a></div></div><script id="QgRpyXx" data-type="js">
