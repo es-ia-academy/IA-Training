@@ -1,10 +1,9 @@
 <section id="GDAUgFC" data-type="section"><style id="tJKrhJj" type="text/css" data-type="css">#a1B2c3D {
   overflow: hidden;
   background-color: white;
-  display:flex;
-  gap:1px;
-  background-color:black;
-  color: white;
+  display: flex;
+  gap: 1px;
+  color: black;
 }
 
 #a1B2c3D a {
@@ -17,7 +16,7 @@
 }
 
 #a1B2c3D a:hover {
-  background-color:white;
+  background-color: white;
   color: black;
 }
 
