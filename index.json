@@ -1,193 +1,33 @@
-<section id="ReXeUXQ" data-type="section" class="grid-item">
-  <style id="yhxUhzt" type="text/css" data-type="css">
-  @media screen and (min-width:0px) {
-    #ReXeUXQ {
-      width: 100%;
-      height: 100vh;
-      position: relative;
-    }
-  }
+<section id="GDAUgFC" data-type="section">
+      <style id="tJKrhJj" type="text/css" data-type="css">.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
 
-  @media screen and (min-width:0px) {
-    #GLQVkDX {
-      width: 100%;
-      height: 100%;
-      position: relative;
-    }
-  }
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
 
-  @media screen and (min-width:0px) {
-    #IHpijPw {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      position: absolute;
-      top: 0;
-      z-index: -10;
-    }
-  }
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
 
-  @media screen and (min-width:0px) {
-    #kLyEmwp {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      position: absolute;
-      top: 0;
-      z-index: -10;
-      background: inherit;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #ucPYunM {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      position: absolute;
-      top: 0;
-      z-index: -10;
-      background: inherit;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #XRtfSUE {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      position: absolute;
-      top: 0;
-      z-index: -10;
-      background: inherit;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #ENzznnz {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      position: absolute;
-      top: 0;
-      z-index: -10;
-      background: inherit;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #xUDxNsV {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      position: absolute;
-      top: 0;
-      z-index: -10;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #MLUbPzO {
-      width: 100%;
-      height: 100%;
-      display: grid;
-      place-content: center;
-      background: #00000052;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #pugNDHb {
-      display: grid;
-      padding: 5%;
-      max-width: 1050px;
-      gap: 15px;
-      place-items: center;
-      text-align: center;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #rGFLnxR {
-      font-size: clamp(3rem, 12vw, 7rem);
-      line-height: 1;
-      font-weight: 200;
-      color: white;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #LoTLXTy {
-      font-size: 1rem;
-      color: white;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #eNrfwYm {
-      display: flex;
-      gap: 10px;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #OYGvxBK {
-      border: 3px solid white;
-      padding: 0 15px;
-      color: white;
-      font-size: 14px;
-      border-radius: 10px;
-      text-underline-position: under;
-      height: 50px;
-      display: grid;
-      place-content: center;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #hsKxzer {
-      background: white;
-      padding: 0 15px;
-      color: black;
-      font-size: 14px;
-      border-radius: 10px;
-      text-underline-position: under;
-      height: 50px;
-      display: grid;
-      place-content: center;
-    }
-  }
-  </style>
-  <div id="GLQVkDX" data-type="container">
-    <div id="kLyEmwp" data-type="bg-color" class="div-hidden">
-      <div id="ucPYunM" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div>
-      <div id="XRtfSUE" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
-      <div id="ENzznnz" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
-    </div><!-- bg-color -->
-    <div id="pJKbvVM" data-type="bg-image" class="div-visible">
-      <picture id="HLFbJrQ">
-        <source srcset="" media="(max-width:640px)">
-        <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-        <img id="IHpijPw" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/empty.svg" data-type="img-bg" loading="lazy">
-      </picture>
-    </div><!-- bg-image -->
-    <div id="XDumWMM" data-type="bg-video" class="div-hidden">
-      <video id="xUDxNsV" autoplay="" loop="" muted="" loading="lazy">
-        <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
-      </video>
-    </div><!-- bg-video -->
-    <div id="MLUbPzO" data-type="content">
-      <div id="pugNDHb">
-        <h2 id="rGFLnxR" contenteditable="true">Lorem ipsum dolor sit amet</h2>
-        <p id="LoTLXTy" contenteditable="true">Lorem ipsum dolor sit amet consectetur</p>
-        <div id="eNrfwYm">
-          <a id="OYGvxBK" contenteditable="true" href="https://www">LOREM IPSUM</a>
-          <a id="hsKxzer" contenteditable="true" href="https://www">LOREM IPSUM</a>
-        </div><!-- div2ID -->
-      </div><!-- div1ID -->
-    </div><!-- content -->
-  </div><!-- container -->
-  <button class="toolbar-open" onclick="toolsOpenModal(this)">
-    <img src="../global/file/edit-section.svg">
-  </button>
-</section>
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+</style>
+      <div id="GMtTGNq" data-type="html">
+      <!--Add or update HTML here...-->
+      </div>
+      <script id="QgRpyXx" data-type="js">
+      // Add or update JS here...
+      </script>
+      <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
+  </section>
