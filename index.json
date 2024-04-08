@@ -4,6 +4,7 @@
   height: 50px;
   width: 100%;
   display:grid;
+  place-content:center
 }
 </style>
   <joder-tio id="nidECVw" data-type="html">Hello</joder-tio>
