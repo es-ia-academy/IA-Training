@@ -1,10 +1,9 @@
 <section id="eUPlCwU" data-type="section">
-  <style id="nyTsgqg" type="text/css" data-type="css">
-  joder {
-    background: red;
-    height: 50px;
-  }
-  </style>
+  <style id="nyTsgqg" type="text/css" data-type="css">joder-tio {
+  background: red;
+  height: 50px;
+}
+</style>
   <joder-tio id="nidECVw" data-type="html">
     <!--Add or update HTML here...-->
   </joder-tio>
