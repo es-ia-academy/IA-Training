@@ -70,164 +70,37 @@
 </section>
     
     <section id="yVrUfpv" data-type="section" class="grid-item">
-  <style id="FxZetdS" type="text/css" data-type="css">
-  @media screen and (min-width:0px) {
-    #yVrUfpv {
-      width: 100%;
-      height: fit-content;
-      position: relative
-    }
-  }
+  <style id="FxZetdS" type="text/css" data-type="css">#GDAUgFC {
+  position: sticky;
+  top: 0;
+  z-index: 99;
+}
 
-  @media screen and (min-width:0px) {
-    #TUIBPsC {
-      width: 100%;
-      height: auto;
-      position: relative
-    }
-  }
+#a1B2c3D {
+  overflow: hidden;
+  display: flex;
+  gap: 1px;
+}
 
-  @media screen and (min-width:0px) {
-    #wwidLeB {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      position: absolute;
-      top: 0;
-      z-index: -10;
-    }
-  }
+#a1B2c3D a {
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  background-color: white;
+}
 
-  @media screen and (min-width:0px) {
-    #QksDGHF {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      position: absolute;
-      top: 0;
-      z-index: -10;
-      background: inherit;
-    }
-  }
+#a1B2c3D a:hover {
+  background-color: white;
+  color: black;
+}
 
-  @media screen and (min-width:0px) {
-    #wvtQOwl {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      position: absolute;
-      top: 0;
-      z-index: -10;
-      background: inherit;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #bdaZVOn {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      position: absolute;
-      top: 0;
-      z-index: -10;
-      background: inherit;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #OonzmKB {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      position: absolute;
-      top: 0;
-      z-index: -10;
-      background: inherit;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #TfRaPLu {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      position: absolute;
-      top: 0;
-      z-index: -10;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #VNzpOqF {
-      width: 100%;
-      height: 100%;
-      display: grid;
-      padding: 10%
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #NVfqclx {
-      display: grid;
-      width: auto;
-      gap: 15px;
-      place-items: center;
-      place-content: center;
-      text-align: center;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #hxfGHVG {
-      font-size: clamp(2rem, 4vw, 6rem);
-      line-height: 1;
-      font-weight: 200;
-      color: white;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #viNIAZE {
-      font-size: 1rem;
-      color: white;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #sNIbMSS {
-      display: flex;
-      gap: 10px;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #BjKdlFv {
-      border: 3px solid white;
-      padding: 0 15px;
-      color: white;
-      font-size: 14px;
-      border-radius: 10px;
-      text-underline-position: under;
-      height: 50px;
-      display: grid;
-      place-content: center;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #DoTdpGO {
-      background: white;
-      padding: 0 15px;
-      color: black;
-      font-size: 14px;
-      border-radius: 10px;
-      text-underline-position: under;
-      height: 50px;
-      display: grid;
-      place-content: center;
-    }
-  }
-  </style>
+#e4F5g6H {
+  background-color: red;
+  color: white;
+}
+</style>
   <div id="TUIBPsC" data-type="container">
     <div id="NWnvznb" data-type="backgrounds">
       <div id="QksDGHF" data-type="bg-color" class="div-visible">
