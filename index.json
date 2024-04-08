@@ -1,43 +1,41 @@
 <section id="GDAUgFC" data-type="section">
-  <style id="tJKrhJj" type="text/css" data-type="css">
-  #GDAUgFC {
-    position: sticky;
-    top: 0;
-    z-index: 99;
-  }
+  <style id="tJKrhJj" type="text/css" data-type="css">#GDAUgFC {
+  position: sticky;
+  top: 0;
+  z-index: 99;
+}
 
-  #a1B2c3D {
-    overflow: hidden;
-    background-color: black;
-    display: flex;
-    gap: 1px;
-  }
+#a1B2c3D {
+  overflow: hidden;
+  display: flex;
+  gap: 1px;
+}
 
-  #a1B2c3D a {
-    float: left;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-    background-color: white;
-  }
+#a1B2c3D a {
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  background-color: white;
+}
 
-  #a1B2c3D a:hover {
-    background-color: white;
-    color: black;
-  }
+#a1B2c3D a:hover {
+  background-color: white;
+  color: black;
+}
 
-  #e4F5g6H {
-    background-color: red;
-    color: white;
-  }
-  </style>
+#e4F5g6H {
+  background-color: red;
+  color: white;
+}
+</style>
   <div id="GMtTGNq" data-type="html">
     <div id="nISSWOz" data-type="backgrounds">
       <div id="otoMsxG" data-type="bg-color" class="div-visible">
-        <div id="MGQQxWt" data-type="solid-color" class="div-hidden" style="background: rgb(0, 0, 0);"></div>
+        <div id="MGQQxWt" data-type="solid-color" class="div-visible" style="background: rgb(255, 0, 0);"></div>
         <div id="JVGnJTZ" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
-        <div id="hNFwLgP" data-type="linear-color" class="div-visible" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(47, 47, 47));"></div>
+        <div id="hNFwLgP" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(47, 47, 47));"></div>
       </div> <!-- bg-color -->
       <div id="PqCSIKp" data-type="bg-image" class="div-hidden">
         <picture id="cAWeWVT">
