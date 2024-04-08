@@ -1,36 +1,70 @@
-<section id="GDAUgFC" data-type="section"><style id="tJKrhJj" type="text/css" data-type="css">#GDAUgFC {
-  position: sticky;
-  top: 0;
-  z-index: 99;
-}
+<section id="GDAUgFC" data-type="section">
+  <style id="tJKrhJj" type="text/css" data-type="css">
+  #GDAUgFC {
+    position: sticky;
+    top: 0;
+    z-index: 99;
+  }
 
-#a1B2c3D {
-  overflow: hidden;
-  background-color: black;
-  display: flex;
-  gap: 1px;
-}
+  #a1B2c3D {
+    overflow: hidden;
+    background-color: black;
+    display: flex;
+    gap: 1px;
+  }
 
-#a1B2c3D a {
-  float: left;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-  background-color: white;
-}
+  #a1B2c3D a {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: white;
+  }
 
-#a1B2c3D a:hover {
-  background-color: white;
-  color: black;
-}
+  #a1B2c3D a:hover {
+    background-color: white;
+    color: black;
+  }
 
-#e4F5g6H {
-  background-color: red;
-  color: white;
-}
-</style><div id="GMtTGNq" data-type="html"><div id="a1B2c3D"><a id="e4F5g6H" href="#home">Home</a><a id="i7J8k9L" href="#news">News</a><a id="m0N1o2P" href="#contact">Contact</a><a id="q3R4s5T" href="#about">About</a></div></div><script id="QgRpyXx" data-type="js">function sayHello()
-{
-  alert('hello');
-}
-</script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+  #e4F5g6H {
+    background-color: red;
+    color: white;
+  }
+  </style>
+  <div id="GMtTGNq" data-type="html">
+    <div id="nISSWOz" data-type="backgrounds">
+      <div id="otoMsxG" data-type="bg-color" class="div-visible">
+        <div id="MGQQxWt" data-type="solid-color" class="div-hidden" style="background: rgb(0, 0, 0);"></div>
+        <div id="JVGnJTZ" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
+        <div id="hNFwLgP" data-type="linear-color" class="div-visible" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(47, 47, 47));"></div>
+      </div> <!-- bg-color -->
+      <div id="PqCSIKp" data-type="bg-image" class="div-hidden">
+        <picture id="cAWeWVT">
+          <source srcset="" media="(max-width:640px)">
+          <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+          <img id="OxMnJTY" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/empty.svg" data-type="img-bg" loading="lazy">
+        </picture>
+      </div> <!-- bg-image -->
+      <div id="CUgXFKB" data-type="bg-video" class="div-hidden">
+        <video id="USdRkdP" autoplay="" loop="" muted="" loading="lazy">
+          <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
+        </video>
+      </div> <!-- bg-video -->
+    </div> <!-- backgrounds -->
+    <div id="a1B2c3D">
+      <a id="e4F5g6H" href="#home">Home</a>
+      <a id="i7J8k9L" href="#news">News</a>
+      <a id="m0N1o2P" href="#contact">Contact</a>
+      <a id="q3R4s5T" href="#about">About</a>
+    </div>
+  </div>
+  <script id="QgRpyXx" data-type="js">
+  function sayHello() {
+    alert('hello');
+  }
+  </script>
+  <button class="toolbar-open" onclick="toolsOpenModal(this)">
+    <img src="../global/file/edit-section.svg">
+  </button>
+</section>
