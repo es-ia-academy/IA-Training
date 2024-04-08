@@ -2,8 +2,8 @@
   <style id="nyTsgqg" type="text/css" data-type="css">joder-tio {
   background: red;
   height: 50px;
-  width:100%;
-  display:flex;
+  width: 100%;
+  display:block;
 }
 </style>
   <joder-tio id="nidECVw" data-type="html">Hello</joder-tio>
