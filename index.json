@@ -3,7 +3,7 @@
   background: red;
   height: 50px;
   width:100%;
-  display:grid;
+  display:flex;
 }
 </style>
   <joder-tio id="nidECVw" data-type="html">Hello</joder-tio>
