@@ -1,10 +1,10 @@
 <section id="eUPlCwU" data-type="section">
-  <style id="nyTsgqg" type="text/css" data-type="css">grid-html {
+  <style id="nyTsgqg" type="text/css" data-type="css">grid-div {
   background: red;
   height: 50px;
   width: 100%;
   display:grid;
-  place-content:center
+  place-content:center;
 }
 </style>
   <joder-tio id="nidECVw" data-type="html">Hello</joder-tio>
