@@ -1,9 +1,9 @@
 <google-map fit-to-markers="" api-key="AIzaSyD3E1D9b-Z7ekrT3tbhl_dy8DCXuIuDDRc"><google-map-marker latitude="37.78" longitude="-122.4" draggable="true"></google-map-marker></google-map>
   <section id="fDOBgww" data-type="section">
-      <style id="ZIhCYDH" type="text/css" data-type="css">
-      /* Add or update CSS here... */
-      
-      </style>
+      <style id="ZIhCYDH" type="text/css" data-type="css">/* Add or update CSS here... */
+grid-html{
+    background:red;
+}</style>
       <div id="tvRWkFC" data-type="html"><grid-html> Hello </grid-html></div>
       <script id="netynZd" data-type="js">
       // Add or update JS here...
