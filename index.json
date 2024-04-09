@@ -2,13 +2,16 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1px;
-  padding:35px;
+  padding: 35px;
 }
 
 #uxAgQY0 img {
   height: 25vh;
   object-fit: cover;
   width: 100%;
+}
+color-bg{
+    background:red;
 }
 </style><div id="juavGyq" data-type="html"><div id="wEwMQdY" data-type="backgrounds" class="div-visible">
   <color-bg id="nzShmqb" data-type="solid-color" class="div-visible" style="background: rgb(255, 0, 0);"></color-bg>
