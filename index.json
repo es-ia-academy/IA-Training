@@ -1,12 +1,77 @@
 <google-map fit-to-markers="" api-key="AIzaSyD3E1D9b-Z7ekrT3tbhl_dy8DCXuIuDDRc"><google-map-marker latitude="37.78" longitude="-122.4" draggable="true"></google-map-marker></google-map>
-  <section id="fDOBgww" data-type="section">
-      <style id="ZIhCYDH" type="text/css" data-type="css">/* Add or update CSS here... */
-grid-html{
-    background:red;
-}</style>
-      <div id="tvRWkFC" data-type="html"><img id="gBiXXqc" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/1.svg" data-type="image" loading="lazy"></div>
-      <script id="netynZd" data-type="js">
-      // Add or update JS here...
-      </script>
-      <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
-  </section>
+  
+    
+    <section id="XXxOHLK" data-type="section">
+  <style id="aeHEiUr" type="text/css" data-type="css">
+  @media screen and (min-width:0px) {
+    #XXxOHLK {
+      width: 100%;
+      height: 100%;
+      position: relative
+    }
+  }
+
+  @media screen and (min-width:0px) {
+    #TJuPvRj {
+      width: 100%;
+      height: 100%;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  @media screen and (min-width:0px) {
+    #uxAgQYC {
+      object-fit: cover;
+      height: 100%;
+      height: 50vh;
+      width: 100vw
+    }
+  }
+
+  @media screen and (min-width:0px) {
+    #kFcPMTv {
+      object-fit: cover;
+      height: 100%;
+      height: 50vh;
+      width: 100vw
+    }
+  }
+
+  @media screen and (min-width:0px) {
+    #RLLdDAS {
+      object-fit: cover;
+      height: 100%;
+      height: 50vh;
+      width: 100vw
+    }
+  }
+
+  @media screen and (min-width:0px) {
+    #IXOYecy {
+      object-fit: cover;
+      height: 100%;
+      height: 50vh;
+      width: 100vw
+    }
+  }
+
+  @media screen and (max-width:640px) {
+    #TJuPvRj {
+      width: 100%;
+      height: 100%;
+      display: grid;
+      grid-template-columns: 1fr;
+    }
+  }
+  </style>
+  <div id="TJuPvRj" data-type="html" class="grid-section">
+    <img id="uxAgQYC" class="grid-item" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/1.svg" data-type="img-grid" loading="lazy">
+    <img id="kFcPMTv" class="grid-item" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/2.svg" data-type="img-grid" loading="lazy">
+    <img id="RLLdDAS" class="grid-item" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/3.svg" data-type="img-grid" loading="lazy">
+    <img id="IXOYecy" class="grid-item" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/4.svg" data-type="img-grid" loading="lazy">
+  </div>
+  <button class="toolbar-open" onclick="toolsOpenModal(this)">
+    <img src="../global/file/edit-section.svg" data-type="img-edit">
+  </button>
+</section>
