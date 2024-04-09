@@ -15,7 +15,8 @@
 #fondo {
   background: red;
   padding: 35px;
-  POSITION:ABSOLUTE;
+  POSITION: ABSOLUTE;
+  z-index:-1;
 }
 </style><div id="juavGyq" data-type="html"><div id="contenedor">
   <img id="fondo" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/bermuda-square_2000x2000.png" data-type="image" loading="lazy">
