@@ -3,7 +3,7 @@
   witdh: 100%
 }
 
-#fondo img {
+#fondo{
   background: red;
   height: 100%;
   width: 100%;
