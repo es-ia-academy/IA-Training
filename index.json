@@ -64,6 +64,13 @@
   height: 100%;
   width: 100%;
 }
+}
+
+#img-bg img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
 </style><div id="aoHXqFz" data-type="html"><div id="PjcUBvv">
   <div id="ftsMtHb">
     <img id="img-bg" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/bermuda-square_2000x2000.png" data-type="image" loading="lazy">
