@@ -33,41 +33,4 @@ img#img-bg {
 }
 </style><div id="juavGyq" data-type="html"><div id="contenedor"><div id="fondo"><img id="img-bg" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/bermuda-square_2000x2000.png" data-type="img-bg" loading="lazy"></div><div id="contenido"><img id="uxAgQYC" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/black-white-memphis-seamless-repeat-pattern-background-abstract-geometric-pattern-fashion-80-90_615232-667_740x740.jpeg" data-type="image" loading="lazy"><img id="kFcPMTv" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/bermuda-square_2000x2000.png" data-type="image" loading="lazy"><img id="RLLdDAS" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/bermuda-square_2000x2000.png" data-type="image" loading="lazy"><img id="IXOYecy" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/black-white-memphis-seamless-repeat-pattern-background-abstract-geometric-pattern-fashion-80-90_615232-667_740x740.jpeg" data-type="image" loading="lazy"></div></div></div><script id="rUpSAUm" data-type="js">
       // Add or update JS here...
-      </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="PqGcDdt" data-type="section"><style id="PQpGQcr" type="text/css" data-type="css">#VeDIOwT {
-  height: 100%;
-  width: 100%
-}
-
-#xySzVkl {
-  height: 100%;
-  width: 100%;
-  position: absolute;
-  z-index: -1;
-}
-
-img#eczNgPU {
-  object-fit: cover;
-  height: 100%;
-  width: 100%;
-}
-
-#TiQdMbi {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-auto-rows: 200px;
-  gap: 1px;
-  width: 100%;
-  height: 100%;
-  padding: 5%;
-  background:red;
-}</style><div id="ehoAlQN" data-type="html"><div id="VeDIOwT">
-  <div id="xySzVkl"></div>
-  <div id="TiQdMbi">
-    <img id="IDyGaIX" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/black-white-memphis-seamless-repeat-pattern-background-abstract-geometric-pattern-fashion-80-90_615232-667_740x740.jpeg" data-type="image" loading="lazy">
-    <img id="eyOHwCg" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/bermuda-square_2000x2000.png" data-type="image" loading="lazy">
-    <img id="LdJrTTQ" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/bermuda-square_2000x2000.png" data-type="image" loading="lazy">
-    <img id="xyiSVFg" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/black-white-memphis-seamless-repeat-pattern-background-abstract-geometric-pattern-fashion-80-90_615232-667_740x740.jpeg" data-type="image" loading="lazy">
-  </div>
-</div></div><script id="EuzKEIf" data-type="js">
-      // Add or update JS here...
       </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
