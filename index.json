@@ -1,9 +1,10 @@
-<google-map fit-to-markers="" api-key="AIzaSyD3E1D9b-Z7ekrT3tbhl_dy8DCXuIuDDRc"><google-map-marker latitude="37.78" longitude="-122.4" draggable="true"></google-map-marker></google-map><section id="vxUkwHn" data-type="section"><style id="GjrixlY" type="text/css" data-type="css">#content {
+<google-map fit-to-markers="" api-key="AIzaSyD3E1D9b-Z7ekrT3tbhl_dy8DCXuIuDDRc"><google-map-marker latitude="37.78" longitude="-122.4" draggable="true"></google-map-marker></google-map><section id="vxUkwHn" data-type="section"><style id="GjrixlY" type="text/css" data-type="css">#contenido {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1px;
-  width:100%;
-}</style><div id="juavGyq" data-type="html"><div id="contenedor">
+  width: 100%;
+}
+</style><div id="juavGyq" data-type="html"><div id="contenedor">
   <div id="fondo"></div>
   <div id="contenido">
     <img id="uxAgQYC" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/black-white-memphis-seamless-repeat-pattern-background-abstract-geometric-pattern-fashion-80-90_615232-667_740x740.jpeg" data-type="image" loading="lazy">
