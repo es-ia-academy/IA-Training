@@ -6,7 +6,7 @@
   background-color: red;
 }
 
-#uxAgQY0 img {
+#content img {
   height: 25vh;
   object-fit: cover;
   width: 100%;
