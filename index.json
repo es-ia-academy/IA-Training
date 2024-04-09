@@ -1,77 +1,20 @@
 <google-map fit-to-markers="" api-key="AIzaSyD3E1D9b-Z7ekrT3tbhl_dy8DCXuIuDDRc"><google-map-marker latitude="37.78" longitude="-122.4" draggable="true"></google-map-marker></google-map>
   
     
-    <section id="XXxOHLK" data-type="section">
-  <style id="aeHEiUr" type="text/css" data-type="css">
-  @media screen and (min-width:0px) {
-    #XXxOHLK {
-      width: 100%;
-      height: 100%;
-      position: relative
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #TJuPvRj {
-      width: 100%;
-      height: 100%;
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #uxAgQYC {
-      object-fit: cover;
-      height: 100%;
-      height: 50vh;
-      width: 100vw
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #kFcPMTv {
-      object-fit: cover;
-      height: 100%;
-      height: 50vh;
-      width: 100vw
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #RLLdDAS {
-      object-fit: cover;
-      height: 100%;
-      height: 50vh;
-      width: 100vw
-    }
-  }
-
-  @media screen and (min-width:0px) {
-    #IXOYecy {
-      object-fit: cover;
-      height: 100%;
-      height: 50vh;
-      width: 100vw
-    }
-  }
-
-  @media screen and (max-width:640px) {
-    #TJuPvRj {
-      width: 100%;
-      height: 100%;
-      display: grid;
-      grid-template-columns: 1fr;
-    }
-  }
-  </style>
-  <div id="TJuPvRj" data-type="html" class="grid-section"><div id="uxAgQY0">
+    
+  <section id="vxUkwHn" data-type="section">
+      <style id="GjrixlY" type="text/css" data-type="css">
+      /* Add or update CSS here... */
+      
+      </style>
+      <div id="juavGyq" data-type="html"><div id="uxAgQY0">
   <img id="uxAgQYC" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/1.svg" data-type="image" loading="lazy">
   <img id="kFcPMTv" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/2.svg" data-type="image" loading="lazy">
   <img id="RLLdDAS" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/3.svg" data-type="image" loading="lazy">
   <img id="IXOYecy" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/4.svg" data-type="image" loading="lazy">
 </div></div>
-  <button class="toolbar-open" onclick="toolsOpenModal(this)">
-    <img src="../global/file/edit-section.svg" data-type="img-edit">
-  </button>
-</section>
+      <script id="rUpSAUm" data-type="js">
+      // Add or update JS here...
+      </script>
+      <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
+  </section>
