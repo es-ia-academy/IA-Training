@@ -14,14 +14,12 @@ color-bg{
     background:red;
     padding:35px;
 }
-</style><div id="juavGyq" data-type="html"><div id="wEwMQdY" data-type="backgrounds" class="div-visible">
-  <color-bg id="nzShmqb" data-type="solid-color" class="div-visible" style="background: rgb(255, 0, 0);"></color-bg>
-  <div id="uxAgQY0">
-    <img id="uxAgQYC" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/black-white-memphis-seamless-repeat-pattern-background-abstract-geometric-pattern-fashion-80-90_615232-667_740x740.jpeg" data-type="image" loading="lazy">
-    <img id="kFcPMTv" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/bermuda-square_2000x2000.png" data-type="image" loading="lazy">
-    <img id="RLLdDAS" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/bermuda-square_2000x2000.png" data-type="image" loading="lazy">
-    <img id="IXOYecy" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/black-white-memphis-seamless-repeat-pattern-background-abstract-geometric-pattern-fashion-80-90_615232-667_740x740.jpeg" data-type="image" loading="lazy">
-  </div>
+</style><div id="juavGyq" data-type="html"><color-bg id="nzShmqb" data-type="solid-color" class="div-visible" style="background: rgb(255, 0, 0);"></color-bg>
+<div id="uxAgQY0">
+  <img id="uxAgQYC" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/black-white-memphis-seamless-repeat-pattern-background-abstract-geometric-pattern-fashion-80-90_615232-667_740x740.jpeg" data-type="image" loading="lazy">
+  <img id="kFcPMTv" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/bermuda-square_2000x2000.png" data-type="image" loading="lazy">
+  <img id="RLLdDAS" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/bermuda-square_2000x2000.png" data-type="image" loading="lazy">
+  <img id="IXOYecy" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/black-white-memphis-seamless-repeat-pattern-background-abstract-geometric-pattern-fashion-80-90_615232-667_740x740.jpeg" data-type="image" loading="lazy">
 </div></div><script id="rUpSAUm" data-type="js">
       // Add or update JS here...
       </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
