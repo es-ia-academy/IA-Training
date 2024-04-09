@@ -47,6 +47,7 @@ img#img-bg {
 
 bg-color {
   background: red;
+  display: block;
 }
 
 #GkBAPxK {
