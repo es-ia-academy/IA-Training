@@ -10,6 +10,9 @@
   position: absolute;
   z-index: -1;
 }
+#abc{
+    object-fit:cover;
+}
 
 #contenido {
   display: grid;
