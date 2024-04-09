@@ -66,10 +66,10 @@
   }
   </style>
   <div id="TJuPvRj" data-type="html" class="grid-section"><div id="uxAgQY0">
-  <img id="uxAgQYC" class="grid-item" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/1.svg" data-type="image" loading="lazy">
-  <img id="kFcPMTv" class="grid-item" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/2.svg" data-type="image" loading="lazy">
-  <img id="RLLdDAS" class="grid-item" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/3.svg" data-type="image" loading="lazy">
-  <img id="IXOYecy" class="grid-item" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/4.svg" data-type="image" loading="lazy">
+  <img id="uxAgQYC" class="item" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/1.svg" data-type="image" loading="lazy">
+  <img id="kFcPMTv" class="item" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/2.svg" data-type="image" loading="lazy">
+  <img id="RLLdDAS" class="item" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/3.svg" data-type="image" loading="lazy">
+  <img id="IXOYecy" class="item" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/4.svg" data-type="image" loading="lazy">
 </div></div>
   <button class="toolbar-open" onclick="toolsOpenModal(this)">
     <img src="../global/file/edit-section.svg" data-type="img-edit">
