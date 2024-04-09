@@ -4,7 +4,7 @@
 grid-html{
     background:red;
 }</style>
-      <div id="tvRWkFC" data-type="html"><grid-html> Hello </grid-html></div>
+      <div id="tvRWkFC" data-type="html"><img data-type="image"></div>
       <script id="netynZd" data-type="js">
       // Add or update JS here...
       </script>
