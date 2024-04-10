@@ -53,7 +53,7 @@ bg-color {
 }
 
 #GkBAPxK {
-    z-index: 0;
+    z-index: 1;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(auto, 300px));
   grid-auto-rows: 200px;
