@@ -123,16 +123,6 @@ bg-color {
   height: 100%;
   width: 100%;
 }
-</style><div id="mqbGIOc" data-type="html"><div id="FOgZSTP">
-  <div id="lHacIDX">
-    <img id="img-bg" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/bermuda-square_2000x2000.png" data-type="img-bg" loading="lazy">
-  </div>
-  <div id="BiVttgK">
-    <img id="FrNAfsS" src="https://images.unsplash.com/photo-1534080564583-6be75777b70a?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0fHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzEyNjg4ODg2fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy">
-    <img id="RSPGLLw" src="https://images.unsplash.com/photo-1516705051158-795390ef6664?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxM3x8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMjY4ODg4Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy">
-    <img id="EbvbIIY" src="https://images.unsplash.com/photo-1550807014-1236e91b92d4?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzEyNjg4ODg2fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy">
-    <img id="GeskQvb" src="https://images.unsplash.com/photo-1536534692336-1dc9e76ed9c6?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMjY4ODg4Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy">
-  </div>
-</div></div><script id="MCoKnFv" data-type="js">
+</style><div id="mqbGIOc" data-type="html"><div id="FOgZSTP"><div id="lHacIDX"><img id="img-bg" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/bermuda-square_2000x2000.png" data-type="img-bg" loading="lazy"></div><div id="BiVttgK"><img id="FrNAfsS" src="https://images.unsplash.com/photo-1534080564583-6be75777b70a?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0fHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzEyNjg4ODg2fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy"><img id="RSPGLLw" src="https://images.unsplash.com/photo-1516705051158-795390ef6664?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxM3x8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMjY4ODg4Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy"><img id="EbvbIIY" src="https://images.unsplash.com/photo-1550807014-1236e91b92d4?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzEyNjg4ODg2fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy"><img id="GeskQvb" src="https://images.unsplash.com/photo-1536534692336-1dc9e76ed9c6?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMjY4ODg4Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy"></div></div></div><script id="MCoKnFv" data-type="js">
       // Add or update JS here...
       </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
