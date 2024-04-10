@@ -127,7 +127,7 @@ bg-color {
   <div id="lLPbEYX">
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="300" height="200" preserveAspectRatio="none" viewBox="0 0 300 200">
       <g mask="url(&quot;#SvgjsMask1003&quot;)" fill="none">
-        <rect width="300" height="200" x="0" y="0" fill="#0e2a47"></rect>
+        <rect width="1024" height="1024" x="0" y="0" fill="#0e2a47"></rect>
         <rect width="78.8" height="78.8" clip-path="url(&quot;#SvgjsClipPath1004&quot;)" x="97.89" y="102.96" fill="url(&quot;#SvgjsPattern1005&quot;)" transform="rotate(142.9, 137.29, 142.36)"></rect>
         <rect width="72" height="72" clip-path="url(&quot;#SvgjsClipPath1006&quot;)" x="122.87" y="76.04" fill="url(&quot;#SvgjsPattern1007&quot;)" transform="rotate(40.5, 158.87, 112.04)"></rect>
         <path d="M231.08 6.01a5.6 5.6 0 1 0 5.44 9.79 5.6 5.6 0 1 0-5.44-9.79zM238.85 20a5.6 5.6 0 1 0 5.44 9.79 5.6 5.6 0 1 0-5.44-9.79zM246.63 33.98a5.6 5.6 0 1 0 5.44 9.79 5.6 5.6 0 1 0-5.44-9.79zM254.4 47.97a5.6 5.6 0 1 0 5.44 9.78 5.6 5.6 0 1 0-5.44-9.78zM201.54-14.18a5.6 5.6 0 1 0 5.45 9.79 5.6 5.6 0 1 0-5.45-9.79zM209.32-0.2a5.6 5.6 0 1 0 5.44 9.79 5.6 5.6 0 1 0-5.44-9.79zM217.09 13.79a5.6 5.6 0 1 0 5.44 9.79 5.6 5.6 0 1 0-5.44-9.79zM224.87 27.77a5.6 5.6 0 1 0 5.44 9.79 5.6 5.6 0 1 0-5.44-9.79z" fill="#e73635"></path>
