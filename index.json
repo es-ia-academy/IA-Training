@@ -10,8 +10,10 @@
   z-index: -1;
 }
 
-#azul{
-    background:blue;
+#azul {
+  background: blue;
+  height: 100%;
+  width: 100%
 }
 
 video {
