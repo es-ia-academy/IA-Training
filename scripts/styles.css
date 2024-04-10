@@ -35,6 +35,9 @@ overflow: hidden;
 padding:15%;
 gap:15px;
 }
+section{
+position:relative;
+}
 
 @media screen and (max-width: 640px) {
 .grid-page {
