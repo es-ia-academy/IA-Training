@@ -414,8 +414,8 @@ bg-color {
     
     <div id="hjDKpCJ" data-type="container">
       
-        <div id="zFfgVmx" data-type="bg-color" class="div-hidden">
-          <div id="jTqnApR" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div>
+        <div id="zFfgVmx" data-type="bg-color" class="div-visible">
+          <div id="jTqnApR" data-type="solid-color" class="div-visible" style="background: rgb(19, 38, 71);"></div>
           <div id="qYwHSQd" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
           <div id="FkDMAoa" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
         </div> <!-- bg-color -->
@@ -428,7 +428,7 @@ bg-color {
           </picture>
         </div> <!-- bg-image -->
   
-        <div id="gFjatOB" data-type="bg-video" class="div-visible">
+        <div id="gFjatOB" data-type="bg-video" class="div-hidden">
           <video id="QYagUAh" autoplay="" loop="" muted="" loading="lazy">
           <source src="https://videos.pexels.com/video-files/854403/854403-sd_640_360_25fps.mp4" type="video/mp4">
           </video>
