@@ -21,8 +21,10 @@ video {
   height: 100%;
   width: 100%;
 }
-#uxAgQY9{
-    
+
+#uxAgQY9 {
+  grid-row: span 2;
+  grid-column: span 2;
 }
 
 img#img-bg {
