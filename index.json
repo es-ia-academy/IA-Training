@@ -48,7 +48,18 @@ img#img-bg {
   height: 100%;
   width: 100%;
 }
-</style><div id="juavGyq" data-type="html"><div id="contenedor"><div id="fondo"><div id="azul" data-type="bg-color"></div></div><div id="contenido"><video id="uxAgQY9" data-type="vid-grid" autoplay="" loop="" muted="" loading="lazy" src="https://videos.pexels.com/video-files/3298232/3298232-sd_506_960_25fps.mp4"><source src="https://videos.pexels.com/video-files/3196344/3196344-sd_426_240_25fps.mp4" type="video/mp4"></video><img id="kFcPMTv" src="https://images.unsplash.com/photo-1539136788836-5699e78bfc75?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyNHx8Zm9vZHxlbnwwfDB8fHwxNzEyNzY0MTY3fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy"><img id="RLLdDAS" src="https://images.unsplash.com/photo-1496412705862-e0088f16f791?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8Zm9vZHxlbnwwfDB8fHwxNzEyNzQwNjMwfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy"></div></div></div><script id="rUpSAUm" data-type="js">
+</style><div id="juavGyq" data-type="html"><div id="contenedor">
+  <div id="fondo">
+    <div id="azul" data-type="bg-color"></div>
+  </div>
+  <div id="contenido">
+    <video id="uxAgQY9" data-type="vid-grid" autoplay="" loop="" muted="" loading="lazy" src="https://videos.pexels.com/video-files/3298232/3298232-sd_506_960_25fps.mp4">
+      <source src="https://videos.pexels.com/video-files/3196344/3196344-sd_426_240_25fps.mp4" type="video/mp4">
+    </video>
+    <img id="kFcPMTv" src="https://images.unsplash.com/photo-1539136788836-5699e78bfc75?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyNHx8Zm9vZHxlbnwwfDB8fHwxNzEyNzY0MTY3fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy">
+    <img id="RLLdDAS" src="https://images.unsplash.com/photo-1496412705862-e0088f16f791?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8Zm9vZHxlbnwwfDB8fHwxNzEyNzQwNjMwfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy">
+  </div>
+</div></div><script id="rUpSAUm" data-type="js">
   // Add or update JS here...
   </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="eTgkLqd" data-type="section"><style id="boVCBVC" type="text/css" data-type="css">#rjCUNrO {
   height: 100%;
