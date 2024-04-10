@@ -70,7 +70,7 @@ bg-color {
   width: 100%;
 }
 </style><div id="ZHukEfY" data-type="html"><div id="UOhWyZg">
-  <div id="SgdEDbw"><bg-color id="kOuWsSr"></bg-color></div>
+  <div id="SgdEDbw"><bg-color id="kOuWsSr" data-type="bg-color"></bg-color></div>
   <div id="GkBAPxK">
     <img id="enJnIUu" src="https://images.unsplash.com/photo-1534080564583-6be75777b70a?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0fHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzEyNjg4ODg2fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy">
     <img id="CjdXgbD" src="https://images.unsplash.com/photo-1516705051158-795390ef6664?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxM3x8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMjY4ODg4Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy">
@@ -80,3 +80,64 @@ bg-color {
 </div></div><script id="COkgfaq" data-type="js">
       // Add or update JS here...
       </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+    
+    <section id="lYUulou" data-type="section" class="grid-item">
+    <style id="RWzZcIv" type="text/css" data-type="css">
+      
+    @media screen and (min-width:0px){#lYUulou{width:100%;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#oSMYIDj{width:100%;height:100%;position:relative}}
+    @media screen and (min-width:0px){#BaSKmtE{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+    @media screen and (min-width:0px){#BnAVFzB{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#PfjeYua{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#yITWiKp{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#dWZZblx{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#rqiIIkE{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+    @media screen and (min-width:0px){#BonAmbn{width:100%;height:100%;display:grid;place-content: center; background: #00000052;}}
+    @media screen and (min-width:0px){#lVkQbzU{display: grid; padding: 5%; max-width:1050px;gap:15px;place-items:center;text-align: center;}}
+    @media screen and (min-width:0px){#hyfWHNV{font-size: clamp(3rem, 12vw, 7rem);line-height:1;font-weight:200;color: white;}}
+    @media screen and (min-width:0px){#HafIdLj{font-size:1rem;color:white;}}
+    @media screen and (min-width:0px){#hebmivq{display:flex;gap:10px;}}
+    @media screen and (min-width:0px){#BMmFWBi{border: 3px solid white; padding: 0 15px; color: white; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
+    @media screen and (min-width:0px){#yQSSRIt{background: white; padding: 0 15px; color:black; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
+    
+    </style>
+    
+    <div id="oSMYIDj" data-type="container">
+      
+        <div id="BnAVFzB" data-type="bg-color" class="div-hidden">
+          <div id="PfjeYua" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div>
+          <div id="yITWiKp" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
+          <div id="dWZZblx" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
+        </div> <!-- bg-color -->
+  
+        <div id="nfipAhi" data-type="bg-image" class="div-visible">
+          <picture id="QSAMfHQ">
+            <source srcset="" media="(max-width:640px)">
+            <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+            <img id="BaSKmtE" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/empty.svg" data-type="img-bg" loading="lazy">
+          </picture>
+        </div> <!-- bg-image -->
+  
+        <div id="fMmMMnJ" data-type="bg-video" class="div-hidden">
+          <video id="rqiIIkE" autoplay="" loop="" muted="" loading="lazy">
+          <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
+          </video>
+        </div> <!-- bg-video -->
+  
+      
+  
+      <div id="BonAmbn" data-type="content">
+        <div id="lVkQbzU">
+          <h2 id="hyfWHNV" contenteditable="true">Lorem ipsum dolor sit amet</h2>
+          <p id="HafIdLj" contenteditable="true">Lorem ipsum dolor sit amet consectetur</p>
+          <div id="hebmivq">
+            <a id="BMmFWBi" contenteditable="true" href="https://www">LOREM IPSUM</a>
+            <a id="yQSSRIt" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          </div> <!-- div2ID -->
+        </div> <!-- div1ID -->
+      </div> <!-- content -->
+    </div> <!-- container -->
+    <button class="toolbar-open" onclick="toolsOpenModal(this)">
+      <img src="../global/file/edit-section.svg">
+    </button>
+  </section>
