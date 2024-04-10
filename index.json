@@ -88,6 +88,99 @@ bg-color {
 }
 </style><div id="ZHukEfY" data-type="html"><div id="UOhWyZg"><div id="SgdEDbw"><bg-color id="kOuWsSr" data-type="bg-color" class="div-visible"></bg-color></div><div id="GkBAPxK"><img id="enJnIUu" src="https://images.unsplash.com/photo-1534080564583-6be75777b70a?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0fHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzEyNjg4ODg2fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy"><img id="CjdXgbD" src="https://images.unsplash.com/photo-1516705051158-795390ef6664?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxM3x8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMjY4ODg4Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy"><img id="YEXXPNg" src="https://images.unsplash.com/photo-1550807014-1236e91b92d4?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzEyNjg4ODg2fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy"><img id="vQdQpFD" src="https://images.unsplash.com/photo-1536534692336-1dc9e76ed9c6?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMjY4ODg4Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy"></div></div></div><script id="COkgfaq" data-type="js">
       // Add or update JS here...
+      </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="PleXozO" data-type="section"><style id="Fiwnlqp" type="text/css" data-type="css">#QXMZTNz {
+  height: 100%;
+  width: 100%
+}
+
+#lLPbEYX {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+}
+
+bg-color {
+  background: red;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+#mMcjmOr {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(auto, 300px));
+  grid-auto-rows: 200px;
+  gap: 10px;
+  width: 100%;
+  height: 100%;
+  padding: 5%;
+  place-content: center;
+}
+
+#mMcjmOr img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+</style><div id="vymGheR" data-type="html"><div id="QXMZTNz">
+  <div id="lLPbEYX">
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="300" height="200" preserveAspectRatio="none" viewBox="0 0 300 200">
+      <g mask="url(&quot;#SvgjsMask1003&quot;)" fill="none">
+        <rect width="300" height="200" x="0" y="0" fill="#0e2a47"></rect>
+        <rect width="78.8" height="78.8" clip-path="url(&quot;#SvgjsClipPath1004&quot;)" x="97.89" y="102.96" fill="url(&quot;#SvgjsPattern1005&quot;)" transform="rotate(142.9, 137.29, 142.36)"></rect>
+        <rect width="72" height="72" clip-path="url(&quot;#SvgjsClipPath1006&quot;)" x="122.87" y="76.04" fill="url(&quot;#SvgjsPattern1007&quot;)" transform="rotate(40.5, 158.87, 112.04)"></rect>
+        <path d="M231.08 6.01a5.6 5.6 0 1 0 5.44 9.79 5.6 5.6 0 1 0-5.44-9.79zM238.85 20a5.6 5.6 0 1 0 5.44 9.79 5.6 5.6 0 1 0-5.44-9.79zM246.63 33.98a5.6 5.6 0 1 0 5.44 9.79 5.6 5.6 0 1 0-5.44-9.79zM254.4 47.97a5.6 5.6 0 1 0 5.44 9.78 5.6 5.6 0 1 0-5.44-9.78zM201.54-14.18a5.6 5.6 0 1 0 5.45 9.79 5.6 5.6 0 1 0-5.45-9.79zM209.32-0.2a5.6 5.6 0 1 0 5.44 9.79 5.6 5.6 0 1 0-5.44-9.79zM217.09 13.79a5.6 5.6 0 1 0 5.44 9.79 5.6 5.6 0 1 0-5.44-9.79zM224.87 27.77a5.6 5.6 0 1 0 5.44 9.79 5.6 5.6 0 1 0-5.44-9.79z" fill="#e73635"></path>
+        <rect width="72" height="72" clip-path="url(&quot;#SvgjsClipPath1008&quot;)" x="190.74" y="138.47" fill="url(&quot;#SvgjsPattern1009&quot;)" transform="rotate(245.64, 226.74, 174.47)"></rect>
+        <rect width="108" height="108" clip-path="url(&quot;#SvgjsClipPath1010&quot;)" x="72.14" y="116.4" fill="url(&quot;#SvgjsPattern1011&quot;)" transform="rotate(173.7, 126.14, 170.4)"></rect>
+        <rect width="60" height="60" clip-path="url(&quot;#SvgjsClipPath1012&quot;)" x="168.28" y="-5.54" fill="url(&quot;#SvgjsPattern1013&quot;)" transform="rotate(199.34, 198.28, 24.46)"></rect>
+        <circle r="25.916257560945052" cx="141.46" cy="21.1" fill="#d3b714"></circle>
+      </g>
+      <defs>
+        <mask id="SvgjsMask1003">
+          <rect width="300" height="200" fill="#ffffff"></rect>
+        </mask>
+        <pattern x="0" y="0" width="7.88" height="7.88" patternUnits="userSpaceOnUse" id="SvgjsPattern1005">
+          <path d="M3.94 1L3.94 6.88M1 3.94L6.88 3.94" stroke="#037b0b" fill="none" stroke-width="1.12"></path>
+        </pattern>
+        <clipPath id="SvgjsClipPath1004">
+          <circle r="19.7" cx="137.29" cy="142.36"></circle>
+        </clipPath>
+        <pattern x="0" y="0" width="6" height="6" patternUnits="userSpaceOnUse" id="SvgjsPattern1007">
+          <path d="M0 6L3 0L6 6" stroke="#037b0b" fill="none"></path>
+        </pattern>
+        <clipPath id="SvgjsClipPath1006">
+          <circle r="18" cx="158.87" cy="112.04"></circle>
+        </clipPath>
+        <pattern x="0" y="0" width="6" height="6" patternUnits="userSpaceOnUse" id="SvgjsPattern1009">
+          <path d="M3 1L3 5M1 3L5 3" stroke="#037b0b" fill="none" stroke-width="1"></path>
+        </pattern>
+        <clipPath id="SvgjsClipPath1008">
+          <circle r="18" cx="226.74" cy="174.47"></circle>
+        </clipPath>
+        <pattern x="0" y="0" width="6" height="6" patternUnits="userSpaceOnUse" id="SvgjsPattern1011">
+          <path d="M0 6L3 0L6 6" stroke="#037b0b" fill="none"></path>
+        </pattern>
+        <clipPath id="SvgjsClipPath1010">
+          <circle r="27" cx="126.14" cy="170.4"></circle>
+        </clipPath>
+        <pattern x="0" y="0" width="6" height="6" patternUnits="userSpaceOnUse" id="SvgjsPattern1013">
+          <path d="M3 1L3 5M1 3L5 3" stroke="#e73635" fill="none" stroke-width="1"></path>
+        </pattern>
+        <clipPath id="SvgjsClipPath1012">
+          <circle r="15" cx="198.28" cy="24.46"></circle>
+        </clipPath>
+      </defs>
+    </svg>
+  </div>
+  <div id="mMcjmOr">
+    <img id="TwPFmNT" src="https://images.unsplash.com/photo-1534080564583-6be75777b70a?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0fHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzEyNjg4ODg2fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy">
+    <img id="ElSTWEH" src="https://images.unsplash.com/photo-1516705051158-795390ef6664?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxM3x8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMjY4ODg4Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy">
+    <img id="tYYMyiA" src="https://images.unsplash.com/photo-1550807014-1236e91b92d4?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzEyNjg4ODg2fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy">
+    <img id="CTWrFDV" src="https://images.unsplash.com/photo-1536534692336-1dc9e76ed9c6?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMjY4ODg4Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy">
+  </div>
+</div></div><script id="aDOrbPP" data-type="js">
+      // Add or update JS here...
       </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="DFyaafh" data-type="section"><style id="LjbgBvI" type="text/css" data-type="css">#FOgZSTP {
   height: 100%;
   width: 100%
