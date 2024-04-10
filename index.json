@@ -48,7 +48,9 @@ img#img-bg {
     <div id="azul" data-type="bg-color"></div>
   </div>
   <div id="contenido">
-    <img id="uxAgQYC" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/black-white-memphis-seamless-repeat-pattern-background-abstract-geometric-pattern-fashion-80-90_615232-667_740x740.jpeg" data-type="image" loading="lazy">
+    <video id="uxAgQY9" data-type="vid-grid" autoplay="" loop="" muted="" loading="lazy" src="https://videos.pexels.com/video-files/3298232/3298232-sd_506_960_25fps.mp4">
+      <source src="https://videos.pexels.com/video-files/3196344/3196344-sd_426_240_25fps.mp4" type="video/mp4">
+    </video>
     <img id="kFcPMTv" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/bermuda-square_2000x2000.png" data-type="image" loading="lazy">
     <img id="RLLdDAS" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/bermuda-square_2000x2000.png" data-type="image" loading="lazy">
     <img id="IXOYecy" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/images/black-white-memphis-seamless-repeat-pattern-background-abstract-geometric-pattern-fashion-80-90_615232-667_740x740.jpeg" data-type="image" loading="lazy">
