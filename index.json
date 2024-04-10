@@ -36,7 +36,7 @@ img#img-bg {
 #contenido {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-auto-rows: 200px;
+  grid-auto-rows: 250px;
   gap: 1px;
   width: 100%;
   height: 100%;
@@ -48,18 +48,7 @@ img#img-bg {
   height: 100%;
   width: 100%;
 }
-</style><div id="juavGyq" data-type="html"><div id="contenedor">
-  <div id="fondo">
-    <div id="azul" data-type="bg-color"></div>
-  </div>
-  <div id="contenido" contenteditable="true">
-    <video id="uxAgQYw" data-type="vid-grid" autoplay="" loop="" muted="" loading="lazy" src="https://videos.pexels.com/video-files/8760485/8760485-sd_360_640_30fps.mp4">
-      <source src="https://videos.pexels.com/video-files/3196344/3196344-sd_426_240_25fps.mp4" type="video/mp4">
-    </video>
-    <img id="RLLdDAS" src="https://images.unsplash.com/photo-1532887965424-5620f3b45c3f?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHxiaWtpbml8ZW58MHwwfHx8MTcxMjc2OTg5NHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy">
-    <img id="kFcPMTv" src="https://images.unsplash.com/photo-1512067848654-47a0880b7527?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMnx8YmlraW5pfGVufDB8MHx8fDE3MTI3Njk4OTR8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy">
-  </div>
-</div></div><script id="rUpSAUm" data-type="js">
+</style><div id="juavGyq" data-type="html"><div id="contenedor"><div id="fondo"><div id="azul" data-type="bg-color"></div></div><div id="contenido" contenteditable="true"><video id="uxAgQYw" data-type="vid-grid" autoplay="" loop="" muted="" loading="lazy" src="https://videos.pexels.com/video-files/8760485/8760485-sd_360_640_30fps.mp4"><source src="https://videos.pexels.com/video-files/3196344/3196344-sd_426_240_25fps.mp4" type="video/mp4"></video><img id="RLLdDAS" src="https://images.unsplash.com/photo-1532887965424-5620f3b45c3f?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHxiaWtpbml8ZW58MHwwfHx8MTcxMjc2OTg5NHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy"><img id="kFcPMTv" src="https://images.unsplash.com/photo-1512067848654-47a0880b7527?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMnx8YmlraW5pfGVufDB8MHx8fDE3MTI3Njk4OTR8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy"></div></div></div><script id="rUpSAUm" data-type="js">
   // Add or update JS here...
   </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="eTgkLqd" data-type="section"><style id="boVCBVC" type="text/css" data-type="css">#rjCUNrO {
   height: 100%;
