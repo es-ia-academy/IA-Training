@@ -121,8 +121,7 @@ img#img-bg {
     <video id="CLaVuhP" src="https://videos.pexels.com/video-files/2839501/2839501-sd_960_540_27fps.mp4" type="video/mp4" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy"></video>
     <video id="CLaVuhn" src="https://videos.pexels.com/video-files/2558530/2558530-sd_426_240_25fps.mp4" type="video/mp4" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy"></video>
     <video id="CLaVuh5" src="https://videos.pexels.com/video-files/5548030/5548030-sd_640_360_25fps.mp4" type="video/mp4" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy"></video>
-      <video id="CLaVuhd" src="https://videos.pexels.com/video-files/953883/953883-sd_640_360_30fps.mp4" type="video/mp4" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy"></video>
-
+    <video id="CLaVuhd" src="https://videos.pexels.com/video-files/953883/953883-sd_640_360_30fps.mp4" type="video/mp4" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy"></video>
   </div>
 </div></div><script id="hAMthot" data-type="js">
   // Add or update JS here...
