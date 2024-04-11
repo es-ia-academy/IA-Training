@@ -63,8 +63,9 @@ img#img-bg {
   height: 100%;
   width: 100%
 }
-#CLaVuhP{
-    grid-column:span 2;
+
+#CLaVuhP {
+  grid-row: span 2;
 }
 
 #oIeRWsB {
