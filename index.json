@@ -48,7 +48,16 @@ img#img-bg {
   height: 100%;
   width: 100%;
 }
-</style><div id="juavGyq" data-type="html"><div id="contenedor"><div id="fondo"><div id="azul" data-type="bg-color"></div></div><div id="contenido" contenteditable="true"><video id="123" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/videos/3196344-sd_426_240_25fps.mp4" type="video/mp4" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy"></video><img id="RLLdDAS" src="https://images.unsplash.com/photo-1532887965424-5620f3b45c3f?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHxiaWtpbml8ZW58MHwwfHx8MTcxMjc2OTg5NHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy"><img id="kFcPMTv" src="https://images.unsplash.com/photo-1512067848654-47a0880b7527?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMnx8YmlraW5pfGVufDB8MHx8fDE3MTI3Njk4OTR8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy"></div></div></div><script id="rUpSAUm" data-type="js">
+</style><div id="juavGyq" data-type="html"><div id="contenedor">
+  <div id="fondo">
+    <div id="azul" data-type="color-bg"></div>
+  </div>
+  <div id="contenido" contenteditable="true">
+    <video id="123" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/videos/3196344-sd_426_240_25fps.mp4" type="video/mp4" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy"></video>
+    <img id="RLLdDAS" src="https://images.unsplash.com/photo-1532887965424-5620f3b45c3f?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHxiaWtpbml8ZW58MHwwfHx8MTcxMjc2OTg5NHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy">
+    <img id="kFcPMTv" src="https://images.unsplash.com/photo-1512067848654-47a0880b7527?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMnx8YmlraW5pfGVufDB8MHx8fDE3MTI3Njk4OTR8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy">
+  </div>
+</div></div><script id="rUpSAUm" data-type="js">
   // Add or update JS here...
   </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="zDUEfTx" data-type="section"><style id="sOqkwUP" type="text/css" data-type="css">#ePgQXtV {
   height: 100%;
@@ -104,17 +113,7 @@ img#img-bg {
   height: 100%;
   width: 100%;
 }
-</style><div id="KZcBjtP" data-type="html"><div id="ePgQXtV">
-  <div id="oIeRWsB">
-    <div id="onBOzMS" data-type="bg-color"></div>
-  </div>
-  <div id="IElivRV" contenteditable="true">
-    <video id="CLaVuhP" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/videos/3196344-sd_426_240_25fps.mp4" type="video/mp4" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy"></video>
-    <video id="CLaVuhn" src="https://videos.pexels.com/video-files/2558530/2558530-sd_426_240_25fps.mp4" type="video/mp4" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy"></video>
-    <video id="CLaVuh5" src="https://videos.pexels.com/video-files/5548030/5548030-sd_640_360_25fps.mp4" type="video/mp4" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy"></video>
-    <video id="CLaVuhd" src="https://videos.pexels.com/video-files/953883/953883-sd_640_360_30fps.mp4" type="video/mp4" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy"></video>
-  </div>
-</div></div><script id="hAMthot" data-type="js">
+</style><div id="KZcBjtP" data-type="html"><div id="ePgQXtV"><div id="oIeRWsB"><div id="onBOzMS" data-type="bg-color"></div></div><div id="IElivRV" contenteditable="true"><video id="CLaVuhP" src="https://raw.githubusercontent.com/es-ia-academy/IA-Training/main/media/videos/3196344-sd_426_240_25fps.mp4" type="video/mp4" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy"></video><video id="CLaVuhn" src="https://videos.pexels.com/video-files/2558530/2558530-sd_426_240_25fps.mp4" type="video/mp4" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy"></video><video id="CLaVuh5" src="https://videos.pexels.com/video-files/5548030/5548030-sd_640_360_25fps.mp4" type="video/mp4" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy"></video><video id="CLaVuhd" src="https://videos.pexels.com/video-files/953883/953883-sd_640_360_30fps.mp4" type="video/mp4" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy"></video></div></div></div><script id="hAMthot" data-type="js">
   // Add or update JS here...
   </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="eTgkLqd" data-type="section"><style id="boVCBVC" type="text/css" data-type="css">#rjCUNrO {
   height: 100%;
