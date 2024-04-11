@@ -59,6 +59,67 @@ img#img-bg {
   </div>
 </div></div><script id="rUpSAUm" data-type="js">
   // Add or update JS here...
+  </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="zDUEfTx" data-type="section"><style id="sOqkwUP" type="text/css" data-type="css">#ePgQXtV {
+  height: 100%;
+  width: 100%
+}
+
+#oIeRWsB {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+}
+
+#onBOzMS {
+  background: blue;
+  height: 100%;
+  width: 100%
+}
+
+video {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+#uxAgQYw {
+  grid-row: span 2;
+  grid-column: span 1;
+}
+
+img#img-bg {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+#IElivRV {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-rows: 250px;
+  gap: 1px;
+  width: 100%;
+  height: 100%;
+  padding: 5%;
+}
+
+#IElivRV img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+</style><div id="KZcBjtP" data-type="html"><div id="ePgQXtV">
+  <div id="oIeRWsB">
+    <div id="onBOzMS" data-type="bg-color"></div>
+  </div>
+  <div id="IElivRV" contenteditable="true">
+    <video id="CLaVuhP" src="https://videos.pexels.com/video-files/2839501/2839501-sd_960_540_27fps.mp4" type="video/mp4" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy"></video>
+    <video id="CLaVuhP" src="https://videos.pexels.com/video-files/2839501/2839501-sd_960_540_27fps.mp4" type="video/mp4" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy"></video>
+    <video id="CLaVuhP" src="https://videos.pexels.com/video-files/2839501/2839501-sd_960_540_27fps.mp4" type="video/mp4" autoplay="" loop="" muted="" data-type="video-fg" loading="lazy"></video>
+  </div>
+</div></div><script id="hAMthot" data-type="js">
+  // Add or update JS here...
   </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="eTgkLqd" data-type="section"><style id="boVCBVC" type="text/css" data-type="css">#rjCUNrO {
   height: 100%;
   width: 100%
