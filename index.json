@@ -187,12 +187,12 @@ bg-color {
         <p id="item1-titulo">Tile</p>
       </div>
     </div>
-    <div id="item1" style="background-color: rgb(255, 255, 255);">
-      <div id="item1-head">
-        <img id="item1-image2" src="https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2fHxmb29kfGVufDB8MHx8fDE3MTI5MTU2ODR8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy">
+    <div id="item2" style="background-color: rgb(255, 255, 255);">
+      <div id="item2-head">
+        <img id="item2-image2" src="https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2fHxmb29kfGVufDB8MHx8fDE3MTI5MTU2ODR8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy">
       </div>
-      <div id="item1-body">
-        <p id="item1-titulo">Tile</p>
+      <div id="item2-body">
+        <p id="item2-titulo">Tile</p>
       </div>
     </div>
   </div>
