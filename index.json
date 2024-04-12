@@ -180,9 +180,11 @@ bg-color {
   <div id="SgdEDbw"><bg-color id="kOuWsSr" data-type="bg-color" class="div-visible"></bg-color></div>
   <div id="grid1">
     <div id="item1">
-      <img id="enJnIUu" src="https://images.unsplash.com/photo-1534080564583-6be75777b70a?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0fHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzEyNjg4ODg2fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy">
-      <div id="item-body">
-        <p>Tile</p>
+      <div id="item1-head">
+        <img id="item1-image" src="https://images.unsplash.com/photo-1534080564583-6be75777b70a?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0fHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzEyNjg4ODg2fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy">
+      </div>
+      <div id="item1-body">
+        <p id="item1-titulo">Tile</p>
       </div>
     </div>
   </div>
