@@ -160,7 +160,7 @@ bg-color {
   height: 100%;
 }
 
-#grid {
+#grid1 {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(auto, 300px));
   grid-auto-rows: 200px;
